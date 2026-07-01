@@ -1,0 +1,15 @@
+model,category,type,n_words,n_unintelligible,ier_pct
+fine_tuned,ABBR,OOV,74,42,56.8
+fine_tuned,ABBR,IV,73,13,17.8
+fine_tuned,BRAND,OOV,74,16,21.6
+fine_tuned,BRAND,IV,75,14,18.7
+fine_tuned,CM,OOV,75,7,9.3
+fine_tuned,CM,IV,75,17,22.7
+fine_tuned,CMPY,OOV,73,13,17.8
+fine_tuned,CMPY,IV,73,16,21.9
+fine_tuned,GOVT,OOV,75,7,9.3
+fine_tuned,GOVT,IV,75,7,9.3
+fine_tuned,PROP,OOV,150,23,15.3
+fine_tuned,PROP,IV,74,13,17.6
+fine_tuned,NAV,OOV,74,21,28.4
+fine_tuned,NAV,IV,75,14,18.7

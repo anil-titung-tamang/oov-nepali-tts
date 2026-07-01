@@ -1,0 +1,58 @@
+{
+  "benchmark": "Nepali OOV TTS Benchmark",
+  "based_on": "Anand et al. 2024 (IndicOOV)",
+  "author": "Anil Titung Tamang",
+  "date": "2026-06-25",
+  "model": "milanakdj/indic-parler-tts-nepali-finetuned-dgx-v2.0-cosine",
+  "hf_dataset": "Titung/nepali-oov-tts-benchmark",
+  "n_sentences": 223,
+  "n_words_rated": 1115,
+  "n_oov_words": 595,
+  "n_iv_words": 520,
+  "n_raters": 1,
+  "overall_oov_ier": 22.6,
+  "overall_iv_ier": 18.1,
+  "oov_iv_gap_pp": 4.5,
+  "per_category": {
+    "ABBR": {
+      "oov_ier": 56.8,
+      "iv_ier": 17.8,
+      "gap_pp": 39.0
+    },
+    "BRAND": {
+      "oov_ier": 21.6,
+      "iv_ier": 18.7,
+      "gap_pp": 2.9
+    },
+    "CM": {
+      "oov_ier": 9.3,
+      "iv_ier": 22.7,
+      "gap_pp": -13.4
+    },
+    "CMPY": {
+      "oov_ier": 17.8,
+      "iv_ier": 21.9,
+      "gap_pp": -4.1
+    },
+    "GOVT": {
+      "oov_ier": 9.3,
+      "iv_ier": 9.3,
+      "gap_pp": 0.0
+    },
+    "PROP": {
+      "oov_ier": 15.3,
+      "iv_ier": 17.6,
+      "gap_pp": -2.3
+    },
+    "NAV": {
+      "oov_ier": 28.4,
+      "iv_ier": 18.7,
+      "gap_pp": 9.7
+    }
+  },
+  "figures": [
+    "figures/fig1_ier_by_category.png",
+    "figures/fig2_oov_iv_gap.png",
+    "figures/fig3_nwords_vs_ier.png"
+  ]
+}
