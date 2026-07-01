@@ -1,0 +1,226 @@
+word,category,is_oov,notes,source
+ल्हासा,PROP,True,Lh- cluster — Tibetan,seed_guide
+ल्होत्से,PROP,True,Lh- cluster — mountain,seed_guide
+मकालु,PROP,True,Borrowed Tibetan/Sanskrit,seed_guide
+मुस्ताङ,PROP,True,Ng-final — region name,seed_guide
+खोटाङ,PROP,True,Kh- + nasal final,seed_guide
+सोलुखुम्बु,PROP,True,Kh- cluster + labial,seed_guide
+सिन्धुपाल्चोक,PROP,True,Conjunct ल्च,seed_guide
+दोलखा,PROP,True,Lkh cluster,seed_guide
+मनाङ,PROP,True,Ng-final,seed_guide
+डोल्पा,PROP,True,Retroflex D + final a,seed_guide
+ह्युम्बु,PROP,True,Hy- + Tibetan origin,seed_guide
+त्सोरोलपा,PROP,True,Tso- glacier lake — Tibetan,seed_guide
+फ्वाङलुङ,PROP,True,Phw- cluster — Tibetan place,seed_guide
+ग्ल्यासिअर,PROP,True,English loanword as place reference,seed_guide
+ज्वालामुखी,PROP,True,Jw- cluster — volcanic,seed_guide
+श्रीस्वस्थानी,PROP,True,Shree + sw- cluster,seed_guide
+फ्रान्स,PROP,True,Fr- cluster — country name,seed_guide
+ब्राजिल,PROP,True,Br- + final l,seed_guide
+जर्मनी,PROP,True,Jrm- cluster,seed_guide
+क्यानडा,PROP,True,Kya- cluster,seed_guide
+अस्ट्रेलिया,PROP,True,Str- cluster — country,seed_guide
+न्युजिल्याण्ड,PROP,True,Nyu- + final nd,seed_guide
+स्विट्जरल्याण्ड,PROP,True,Sw- + tzr- cluster,seed_guide
+नर्वे,PROP,True,Final -e,seed_guide
+फिनल्याण्ड,PROP,True,Fn- cluster,seed_guide
+धौलागिरि,PROP,True,Dh- + complex suffix — 7th highest,seed_guide
+कञ्चनजङ्घा,PROP,True,Conjunct ञ्च + ङ्घ — 3rd highest,seed_guide
+अन्नपूर्णा,PROP,True,nn- geminate + rna cluster,seed_guide
+मनास्लु,PROP,True,Final -slu cluster,seed_guide
+चो ओयु,PROP,True,Tibetan — vowel sequence,seed_guide
+गणेश हिमाल,PROP,True,Deity name + Himal,seed_guide
+लाङटाङ हिमाल,PROP,True,Ng-final + Tibetan,seed_guide
+त्रिशूल,PROP,True,Tri- + shul — deity weapon/peak,seed_guide
+पुम्री हिउँचुली,PROP,True,Hiun + chuli — rare cluster,seed_guide
+थोरोङ ला,PROP,True,Tho- + Tibetan suffix La (pass),seed_guide
+त्रिशूलगंगा,PROP,True,Tri- + compound + nasal,seed_guide
+भेरी नदी,PROP,True,Bh- + nasal initial,seed_guide
+कर्णाली नदी,PROP,True,rn- cluster — major river,seed_guide
+सप्तकोशी,PROP,True,Sapta + koshi compound,seed_guide
+त्रियुगा,PROP,True,Tri- + yuga — Udaypur river,seed_guide
+फेवा ताल,PROP,True,Ph- + Pokhara lake,seed_guide
+रारा ताल,PROP,True,Reduplication — largest lake,seed_guide
+तिलिचो ताल,PROP,True,High altitude — lch cluster,seed_guide
+गोसाइँकुण्ड,PROP,True,Compound — nd final + sacred lake,seed_guide
+बुढीगण्डकी,PROP,True,Bh- + ndak compound,seed_guide
+पशुपतिनाथ,PROP,True,Sh- + compound — UNESCO site,seed_guide
+चाँगुनारायण,PROP,True,Chh- + compound — oldest temple,seed_guide
+न्यातापोल,PROP,True,Ny- cluster — Bhaktapur,seed_guide
+भीमसेन थान,PROP,True,Bh- + deity name,seed_guide
+हिरण्यवर्ण महाविहार,PROP,True,rny- cluster — Golden Temple Patan,seed_guide
+कृष्णमन्दिर,PROP,True,Kr- + compound — Patan Durbar,seed_guide
+तुम्बहल,PROP,True,mb- cluster — Newari courtyard,seed_guide
+वज्रयोगिनी,PROP,True,Vj- cluster + yogini,seed_guide
+पोर्चुगल,PROP,True,Port- + final l,seed_guide
+स्पेन,PROP,True,Sp- cluster,seed_guide
+ग्रीस,PROP,True,Gr- cluster,seed_guide
+श्रीलङ्का,PROP,True,Shr- + conjunct ङ्क,seed_guide
+म्यानमार,PROP,True,My- cluster + final r,seed_guide
+थाइल्याण्ड,PROP,True,Th- + final nd,seed_guide
+भियतनाम,PROP,True,Bh- + final m,seed_guide
+इन्डोनेसिया,PROP,True,nd- + vowel sequence,seed_guide
+अर्जेन्टिना,PROP,True,rj- cluster + final a,seed_guide
+मेक्सिको,PROP,True,ksi + o-final,seed_guide
+इथियोपिया,PROP,True,Eth- + vowel sequence,seed_guide
+नाइजेरिया,PROP,True,Nai- diphthong + eria,seed_guide
+पृथ्वीनारायण,PROP,True,Pr- + thwi cluster — unifier king,seed_guide
+भानुभक्त,PROP,True,Bh- + bh- + kt cluster — Aadikavi,seed_guide
+लक्ष्मीप्रसाद देवकोटा,PROP,True,Lk- + compound + kota — Mahakavi,seed_guide
+माधवप्रसाद घिमिरे,PROP,True,dh- + compound + Gh- — national poet,seed_guide
+तुलसीमेहर,PROP,True,ls- cluster + meher,seed_guide
+श्रद्धा,PROP,True,Shr- + ddha cluster — common female name,seed_guide
+प्रज्ञा,PROP,True,Pr- + jñ- cluster — common female name,seed_guide
+ज्ञानेन्द्र,PROP,True,Jñ- cluster — last king,seed_guide
+त्रिलोकचन्द्र,PROP,True,Tri- + lk + chandra compound,seed_guide
+स्वर्णलक्ष्मी,PROP,True,Sw- + rna + lk cluster — female name,seed_guide
+तामाङ,PROP,True,Ng-final — major ethnic group,seed_guide
+नेवार,PROP,True,Final r — Kathmandu valley indigenous,seed_guide
+थारू,PROP,True,Th- + u-final — Terai indigenous,seed_guide
+राई,PROP,True,Short — eastern hills ethnic,seed_guide
+लिम्बु,PROP,True,mb- cluster — Kirat group,seed_guide
+मगर,PROP,True,Final r — western hills ethnic,seed_guide
+गुरुङ,PROP,True,Ng-final — Annapurna region,seed_guide
+शेर्पा,PROP,True,Sh- + rpa cluster — Himalayan,seed_guide
+चेपाङ,PROP,True,Ng-final — endangered group,seed_guide
+राजवंशी,PROP,True,Compound + sh- — Terai group,seed_guide
+ध्रुव,PROP,True,Dhr- + final v — rare cluster name,seed_guide
+भोटे,PROP,True,Bh- + e-final — Tibetan-origin,seed_guide
+हलेसी महादेव,PROP,True,Compound — major Shiva temple east,seed_guide
+पाथिभरा देवी,PROP,True,Bh- + ra — Taplejung temple,seed_guide
+मनकामना,PROP,True,mk- cluster — cable car temple,seed_guide
+बराहक्षेत्र,PROP,True,rh- + ksh- cluster — Sunsari,seed_guide
+देवघाट,PROP,True,Compound — Chitwan confluence,seed_guide
+मुक्तिनाथ,PROP,True,kt- cluster — Mustang,seed_guide
+स्वर्गद्वारी,PROP,True,Sw- + dw- — Pyuthan temple,seed_guide
+खप्तड,PROP,True,Kh- + retroflex — far-west,seed_guide
+थोरोङ पास,PROP,True,Tho- + ng-final + English,seed_guide
+तिल्मान पास,PROP,True,Tilman — lm cluster,seed_guide
+नाम्चे बजार,PROP,True,Nm- + Sherpa name,seed_guide
+फाप्लु,PROP,True,Ph- + plu cluster,seed_guide
+लुक्ला,PROP,True,lk- cluster — famous airport,seed_guide
+गोक्यो री,PROP,True,Gokyo — Tibetan + Ri (peak),seed_guide
+कालापत्थर,PROP,True,Compound — black rock viewpoint,seed_guide
+सप्तरी,PROP,True,Sapt- + final i — district,seed_guide
+सिरहा,PROP,True,rh- cluster — district,seed_guide
+महोत्तरी,PROP,True,Compound — central Terai district,seed_guide
+रौतहट,PROP,True,Raut- + hat — district,seed_guide
+नवलपुर,PROP,True,Final r — recently renamed district,seed_guide
+पर्सा,PROP,True,Pr- — Terai district,seed_guide
+चितवन,PROP,True,Chitw- cluster — famous national park,seed_guide
+कपिलवस्तु,PROP,True,Compound + stu — Buddha birthplace district,seed_guide
+बेइजिङ,PROP,True,Bei- + jing — Chinese capital,seed_guide
+वाशिङटन,PROP,True,Wh- + final n,seed_guide
+लन्डन,PROP,True,Final nd — British capital,seed_guide
+दिल्ली,PROP,True,dh- + final i — Indian capital,seed_guide
+काठमाडौं,PROP,True,Kth- + final nasal — own capital variant,seed_guide
+चेन्नई,PROP,True,,step4_corpus
+वफादार,PROP,True,,step4_corpus
+दिवङ्गत,PROP,True,,step4_corpus
+संर्घष,PROP,True,,step4_corpus
+उत्तरायणं,PROP,True,,step4_corpus
+अर्धचेत,PROP,True,,step4_corpus
+दुईथरी,PROP,True,,step4_corpus
+सहइन्चार्ज,PROP,True,,step4_corpus
+दासढुंगा,PROP,True,,step4_corpus
+यूथ,PROP,True,,step4_corpus
+साँझतिर,PROP,True,,step4_corpus
+माघभित्र,PROP,True,,step4_corpus
+दासढुंगामा,PROP,True,,step4_corpus
+सोरठी,PROP,True,,step4_corpus
+जण्डिस,PROP,True,,step4_corpus
+जँचाउन,PROP,True,,step4_corpus
+रंगखबर,PROP,True,,step4_corpus
+कथंकदाचित,PROP,True,,step4_corpus
+अर्धदक्ष,PROP,True,,step4_corpus
+मेषः,PROP,True,,step4_corpus
+रूथ,PROP,True,,step4_corpus
+ऐया,PROP,True,,step4_corpus
+चउरमा,PROP,True,,step4_corpus
+हफ्ता,PROP,True,,step4_corpus
+चेन्नईले,PROP,True,,step4_corpus
+काठमाडौः,PROP,True,,step4_corpus
+घोसणा,PROP,True,,step4_corpus
+छभने,PROP,True,,step4_corpus
+स्थूल,PROP,True,,step4_corpus
+अौं,PROP,True,,step4_corpus
+सम्झ्ौता,PROP,True,,step4_corpus
+घरपझोङ,PROP,True,,step4_corpus
+औडाहा,PROP,True,,step4_corpus
+पउल,PROP,True,,step4_corpus
+छउन्जेल,PROP,True,,step4_corpus
+कानुनी,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+पर्खनुस्,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+आउँदैनन्,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+नेपोलिक,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+धिरेन,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+कारोबारतर्फ,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+वीर्य,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+इनरुवाको,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+चेतनामुलक,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+मुसहर,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+अपमानजनक,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+मिरन,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+सामर्थ्य,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+पस्किएको,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+वृतवाट,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+डिउटी,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+जापानलाई,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+जुत्ताबाट,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+बोकेका,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+खड्कासहित,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+पढाइको,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+बैठकहरुमा,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+अहिलेका,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+अनशनबाट,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+साफ,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+सपनाबीच,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+नयाँघरे,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+द्वन्द्वकालपछि,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+बिम्स्टेकलाई,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+प्लेब्वायको,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+टोलीकी,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+बाटा,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+काठमाडौँः,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+श्रष्टालाई,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+सुसमाचारको,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+नायक,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+सान,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+थामिनसक्नु,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+धोबीघाटमा,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+रोजगारीसहितका,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+धुर्व,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+लैजानु,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+मुट्ठाले,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+बोटबाटै,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+बिचौलियामुक्त,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+सम्झना,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+परमेश्वरपट्टिबाट,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+हेर्नलाई,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+स्थानीयद्वारा,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+सेक्सबारे,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+खगिसरा,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+डाईभर्सन,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+युद्धकालको,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+श्रृंखलाले,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+युनिभर्सिटीका,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+क्लिप,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+दुर्घटनासमेत,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+विष्लेण,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+विपी,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+कमजोर,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+आइसीआरसीले,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+कम्युनिकेशन,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+ब्रह्मायणी,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+प्राथमिकिकरण,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+हुथी,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+रत्पपार्क,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+मार्दैन,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+विशेषताका,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+घुम्टो,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+पाउण्ड,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+कुलेबाले,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+दुतावासका,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+सोँचको,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+नजुधाई,PROP,False,IV control word — all bigrams in training vocab,iv_sample
+माड,PROP,False,IV control word — all bigrams in training vocab,iv_sample

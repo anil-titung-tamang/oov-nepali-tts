@@ -1,0 +1,151 @@
+﻿word,category,is_oov,notes,source
+ICIMOD,ABBR,True,Intl Centre for Integrated Mountain Development,seed_guide
+SAARC,ABBR,True,South Asian Association for Regional Cooperation,seed_guide
+UNESCO,ABBR,True,UN Educational Scientific Cultural Organization,seed_guide
+UNICEF,ABBR,True,UN Childrens Fund,seed_guide
+UNDP,ABBR,True,UN Development Programme,seed_guide
+NRB,ABBR,True,Nepal Rastra Bank,seed_guide
+FNCCI,ABBR,True,Federation of Nepalese Chambers of Commerce,seed_guide
+CIAA,ABBR,True,Commission for Investigation of Abuse of Authority,seed_guide
+OPM,ABBR,True,Office of Prime Minister,seed_guide
+BIPPA,ABBR,True,Bilateral Investment Promotion and Protection Agreement,seed_guide
+SEBON,ABBR,True,Securities Board of Nepal,seed_guide
+BNMT,ABBR,True,Border Network and Mobile Telecom,seed_guide
+UCPN,ABBR,True,Unified Communist Party of Nepal,seed_guide
+NHRC,ABBR,True,National Human Rights Commission,seed_guide
+WHO,ABBR,True,World Health Organization,seed_guide
+IMF,ABBR,True,International Monetary Fund,seed_guide
+ADB,ABBR,True,Asian Development Bank,seed_guide
+WFP,ABBR,True,World Food Programme,seed_guide
+UNHCR,ABBR,True,UN High Commissioner for Refugees,seed_guide
+NATO,ABBR,True,North Atlantic Treaty Organization,seed_guide
+ASEAN,ABBR,True,Association of Southeast Asian Nations,seed_guide
+ICC,ABBR,True,International Criminal Court,seed_guide
+INGO,ABBR,True,International Non-Governmental Organization,seed_guide
+NGO,ABBR,True,Non-Governmental Organization,seed_guide
+MOU,ABBR,True,Memorandum of Understanding,seed_guide
+GDP,ABBR,True,Gross Domestic Product,seed_guide
+GNP,ABBR,True,Gross National Product,seed_guide
+FDI,ABBR,True,Foreign Direct Investment,seed_guide
+VAT,ABBR,True,Value Added Tax,seed_guide
+ATM,ABBR,True,Automated Teller Machine,seed_guide
+PIN,ABBR,True,Personal Identification Number,seed_guide
+OTP,ABBR,True,One Time Password,seed_guide
+SIM,ABBR,True,Subscriber Identity Module,seed_guide
+GPS,ABBR,True,Global Positioning System,seed_guide
+USB,ABBR,True,Universal Serial Bus,seed_guide
+WiFi,ABBR,True,Wireless Fidelity — mixed case,seed_guide
+CCTV,ABBR,True,Closed Circuit Television,seed_guide
+PCR,ABBR,True,Polymerase Chain Reaction — COVID context,seed_guide
+ICU,ABBR,True,Intensive Care Unit,seed_guide
+ECG,ABBR,True,Electrocardiogram,seed_guide
+MRI,ABBR,True,Magnetic Resonance Imaging,seed_guide
+CT,ABBR,True,Computed Tomography scan,seed_guide
+BC,ABBR,True,Before Christ — calendar,seed_guide
+AD,ABBR,True,Anno Domini,seed_guide
+VS,ABBR,True,Versus,seed_guide
+PDF,ABBR,True,Portable Document Format,seed_guide
+SMS,ABBR,True,Short Message Service,seed_guide
+TV,ABBR,True,Television,seed_guide
+FM,ABBR,True,Frequency Modulation,seed_guide
+AM,ABBR,True,Amplitude Modulation / morning,seed_guide
+PM,ABBR,True,Prime Minister / afternoon,seed_guide
+KTM,ABBR,True,Kathmandu — airport code,seed_guide
+PKR,ABBR,True,Pakistani Rupee,seed_guide
+INR,ABBR,True,Indian Rupee,seed_guide
+USD,ABBR,True,US Dollar,seed_guide
+EUR,ABBR,True,Euro,seed_guide
+GBP,ABBR,True,British Pound Sterling,seed_guide
+NPR,ABBR,True,Nepali Rupee — currency code,seed_guide
+HR,ABBR,True,Human Resources,seed_guide
+IT,ABBR,True,Information Technology,seed_guide
+AI,ABBR,True,Artificial Intelligence,seed_guide
+ML,ABBR,True,Machine Learning,seed_guide
+API,ABBR,True,Application Programming Interface,seed_guide
+URL,ABBR,True,Uniform Resource Locator,seed_guide
+IP,ABBR,True,Internet Protocol,seed_guide
+OS,ABBR,True,Operating System,seed_guide
+RAM,ABBR,True,Random Access Memory,seed_guide
+ROM,ABBR,True,Read Only Memory,seed_guide
+CPU,ABBR,True,Central Processing Unit,seed_guide
+GPU,ABBR,True,Graphics Processing Unit,seed_guide
+SSD,ABBR,True,Solid State Drive,seed_guide
+HDD,ABBR,True,Hard Disk Drive,seed_guide
+VPN,ABBR,True,Virtual Private Network,seed_guide
+IoT,ABBR,True,Internet of Things,seed_guide
+EV,ABBR,True,Electric Vehicle,seed_guide
+धम्कीसम्म,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+रहेकाहरु,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+खूला,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+शिखरपोष्ट,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+पेटभित्रै,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+ट्यांकरसँग,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+विधेयकलाई,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+चलखेलका,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+पुरेको,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+नबोल्ने,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+शिक्षकललाई,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+छाडौैं,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+पठाउनुपर्यो,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+घनत्व,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+क्षेत्रबहादुर,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+चक्रवृत्ति,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+फोटोमार्फत,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+टेलिभिजनले,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+सञ्जिन,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+छुनैपर्छ,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+कमलादीस्थित,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+बनाउँछौं,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+राजनीति,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+थाहाहुने,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+लीटर,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+मुलुकहरुमा,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+उहाँसँग,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+जनाभन्दा,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+अठ्ठाईस,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+लिनेपनि,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+आमाकहाँ,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+स्चेक्मनले,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+पुल्चोक,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+हिसाव,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+अलबामा,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+बोटबिरुवामा,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+शेखरको,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+विकेट,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+पर्थ्यो,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+अर्थतन्त्रका,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+ट्वीटरले,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+जनबाट,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+सुझावः,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+होमबलि,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+पानीलाई,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+लोग्ने,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+मतदानस्थल,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+जनै,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+अहँ,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+कञ्चनजंघा,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+सकिनस्,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+आक्रमणका,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+नेस्याङ,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+महामुनेश्वर,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+होण्डुरसलाई,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+साँधेको,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+मुम्बईका,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+इस्टभान्ने,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+चलाऊन,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+गांउमा,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+दसैंको,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+बढाईने,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+विपन्नलाई,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+आढईदेखि,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+मुटुरोग,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+पापहरू,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+उपभोग्यदेखि,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+त्यसले,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+आउदैछौ,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+दोगडाकेदार,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+कन्जुसाई,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+नचिन,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+बाँके,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+उठाइरहेका,ABBR,False,IV control word — all bigrams in training vocab,iv_sample
+दुईपक्षीय,ABBR,False,IV control word — all bigrams in training vocab,iv_sample

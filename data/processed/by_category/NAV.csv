@@ -1,0 +1,151 @@
+﻿word,category,is_oov,notes,source
+बुद्धचोकमा,NAV,True,,step4_corpus
+कालीञ्चोकमा,NAV,True,,step4_corpus
+करोड़ौं,NAV,True,,step4_corpus
+करोड़ौंको,NAV,True,,step4_corpus
+बानेश्वर चोक,NAV,True,Shw- cluster — Kathmandu junction,seed_guide
+बौद्ध स्तूप,NAV,True,Dh- + St- cluster,seed_guide
+स्वयम्भूनाथ,NAV,True,Sw- + conjunct bh,seed_guide
+ठमेल,NAV,True,Th- aspirate — tourist hub,seed_guide
+पुतलीसडक,NAV,True,Long compound — road name,seed_guide
+कोटेश्वर,NAV,True,Shw- cluster — ring road junction,seed_guide
+चाबहिल,NAV,True,Aspirate — locality,seed_guide
+कालङ्की चोक,NAV,True,Lk- cluster — western junction,seed_guide
+त्रिपुरेश्वर,NAV,True,Tri- + shw- cluster,seed_guide
+बागबजार,NAV,True,Compound — market,seed_guide
+दिल्लीबजार,NAV,True,Borrowed (Delhi) + bazar,seed_guide
+लाजिम्पाट,NAV,True,Final consonant cluster,seed_guide
+पुल्चोक,NAV,True,Lch- cluster,seed_guide
+बालाजु बाइपास,NAV,True,Bypass is English,seed_guide
+सिनामङ्गल,NAV,True,Final consonant cluster,seed_guide
+नक्साल,NAV,True,Final xal cluster,seed_guide
+माइतीघर,NAV,True,Diphthong + ghar,seed_guide
+रत्नपार्क,NAV,True,Sanskrit + English,seed_guide
+घण्टाघर,NAV,True,Nasal cluster + ghar,seed_guide
+नयाँबानेश्वर,NAV,True,Shw- cluster — new area,seed_guide
+सूर्यविनायक,NAV,True,Compound — deity name + place,seed_guide
+भक्तपुर दरबार,NAV,True,Heritage site — Bhk- cluster,seed_guide
+ललितपुर महानगर,NAV,True,Long compound,seed_guide
+किर्तिपुर,NAV,True,Historical city — rt- cluster,seed_guide
+दक्षिणकाली,NAV,True,Dksh- cluster — temple,seed_guide
+चन्द्रागिरि,NAV,True,Cable car hill — dr- cluster,seed_guide
+फर्पिङ,NAV,True,Ph- + ng final,seed_guide
+नागार्जुन वन,NAV,True,Forest — Sanskrit name,seed_guide
+शिवपुरी,NAV,True,Sh- + Sanskrit,seed_guide
+टोखा,NAV,True,Retroflex T + aspirate,seed_guide
+बुढानीलकण्ठ,NAV,True,Long compound — sleeping Vishnu,seed_guide
+जोरपाटी,NAV,True,Compound — road name,seed_guide
+गोकर्णेश्वर,NAV,True,Shw- cluster — municipality,seed_guide
+साँखु,NAV,True,Kh- + ancient trade route,seed_guide
+नलु,NAV,True,Short — village near Bhaktapur,seed_guide
+धुलिखेल,NAV,True,Dh- + lkh cluster,seed_guide
+पनौती,NAV,True,Diphthong auti — heritage town,seed_guide
+बनेपा,NAV,True,Historical town — np- cluster,seed_guide
+काभ्रेपलाञ्चोक,NAV,True,District — conjunct ञ्च,seed_guide
+सिन्धुली,NAV,True,District — ndh- cluster,seed_guide
+रामेछाप,NAV,True,District — chh aspirate,seed_guide
+ओखलढुङ्गा,NAV,True,District — kh + dh + conjunct,seed_guide
+सोलुखुम्बु,NAV,True,District — kh + mb cluster,seed_guide
+खोटाङ सदरमुकाम,NAV,True,Kh- + compound,seed_guide
+तेह्रथुम,NAV,True,District — thr- cluster,seed_guide
+ताप्लेजुङ,NAV,True,District — ng-final,seed_guide
+पाँचथर,NAV,True,District — thr- cluster,seed_guide
+इलाम बजार,NAV,True,Initial vowel + compound,seed_guide
+धनकुटा,NAV,True,Dh- + retroflex,seed_guide
+भोजपुर,NAV,True,Bh- + pur suffix,seed_guide
+खाँदबारी,NAV,True,Kh- + nasal + retroflex,seed_guide
+फिदिम,NAV,True,Ph- + dim,seed_guide
+हेटौँडा,NAV,True,Industrial city — ou diphthong,seed_guide
+बुटवल,NAV,True,Western hub — final l,seed_guide
+भैरहवा,NAV,True,Bh- + rahawa,seed_guide
+नेपालगञ्ज,NAV,True,City — final conjunct ञ्ज,seed_guide
+धनगढी,NAV,True,Far-west city — Dh- + dh,seed_guide
+महेन्द्रनगर,NAV,True,Far-west city — compound,seed_guide
+दमक,NAV,True,Eastern town — simple,seed_guide
+बिर्तामोड,NAV,True,Eastern hub — b/v + final d,seed_guide
+इटहरी,NAV,True,Eastern city — initial vowel,seed_guide
+ढल्केबर,NAV,True,Dh- + retroflex cluster,seed_guide
+जलेश्वर,NAV,True,Shw- cluster — Madhesh city,seed_guide
+जनकपुर धाम,NAV,True,Religious city — dham suffix,seed_guide
+राजविराज,NAV,True,Madhesh capital — compound,seed_guide
+लहान,NAV,True,Madhesh town — simple,seed_guide
+गौर,NAV,True,Rautahat HQ — au diphthong,seed_guide
+कलैया,NAV,True,Bara HQ — ai diphthong,seed_guide
+वीरगञ्ज,NAV,True,Trade hub — conjunct ञ्ज,seed_guide
+सिमरा,NAV,True,Airport town — simple,seed_guide
+पोखरा लेकसाइड,NAV,True,Lakeside — code-mix + English,seed_guide
+मिलनचोकमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+चारकरोडका,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+मार्गप्रशस्त,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+कान्तिलोकपथको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+प्रोडक्ट,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+धावनमार्गसहितको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+प्रोडक्सन्,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+कालिञ्चोकदेखि,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+परोडियाका,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+लोकमार्गको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+न्यूरोडमामा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+चोकको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+मार्गको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+मार्गहरु,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+कर्तव्यपथमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+मार्गदर्शक,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+पृथ्वीचोकदेखि,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+पथ्र्याे,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सपथग्रहण,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+पुल्चोकबाट,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सडकहरूमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+चक्रपथमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+शपथमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+रिङरोडमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+पृथ्वीराजमार्गस्थित,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सडकमार्ग,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+लोकमार्गले,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सडकलाई,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+रोडमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+खहरेचोकसम्म,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+मार्गचित्रबमोजिम,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+न्युरोड,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+करोडपति,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+करोड,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+करोडको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सडकखण्डका,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+पथरी,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सडको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सडकखण्डमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सुरुङमार्गले,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+चत्रपथभित्रका,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+पृथ्वीराजमार्ग,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+करोडकाे,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+कालिञ्चोकमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+चोकनजिकै,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+लोकपथ,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+तोडमरोड,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+शपथ,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सुमार्गीसँग,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+बौद्धमार्गीहरुको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+शपथग्रहण,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+न्यूरोड,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+प्रोडक्सनको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+रिङरोडभित्र,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सुमार्गीबीच,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+न्यूरोडको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+हल्चोकमा,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सडकको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+रेलमार्गको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+धावनमार्गका,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+पुतलीसडकको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+प्रोडुसरको,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सातकरोड,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+तालचोकसम्म,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+भन्नुपथ्र्यो,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+राजमार्गकै,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+गणेशमानचोकदेखि,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+अक्षरमार्ग,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+झिकाउनुपथ्र्यो,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+सुरुङमार्ग,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+मिलनचोकका,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+रेलमार्ग,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+कान्तिलोकपथ,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+रोड,NAV,False,IV control word — all bigrams in training vocab,iv_sample
+पथरीशनिश्चरे,NAV,False,IV control word — all bigrams in training vocab,iv_sample

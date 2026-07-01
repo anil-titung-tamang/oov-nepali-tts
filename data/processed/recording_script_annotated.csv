@@ -1,0 +1,224 @@
+utterance_id,section,sentence,categories,is_oov_flags,word_count
+OOV_0001,OOV,"भैरहवा, discount code, दिल्लीबजार, सिरहा, login गर्नुस्",NAV|CM|NAV|PROP|CM,True|True|True|True|True,5
+OOV_0002,OOV,"Ncell, Saurya Airlines, online class, Samsung, Carlsberg",CMPY|CMPY|CM|BRAND|BRAND,True|True|True|True|True,5
+OOV_0003,OOV,"तुम्बहल, सिनामङ्गल, FonePay, उज्ज्वला योजना, zoom meeting",PROP|NAV|BRAND|GOVT|CM,True|True|True|True|True,5
+OOV_0004,OOV,"spam message, Disprin, साँखु, तिलिचो ताल, साँझतिर",CM|BRAND|NAV|PROP|PROP,True|True|True|True|True,5
+OOV_0005,OOV,"स्वर्णलक्ष्मी, भक्तपुर दरबार, स्थानीय सरकार, Vivo, रारा ताल",PROP|NAV|GOVT|BRAND|PROP,True|True|True|True|True,5
+OOV_0006,OOV,"Mega Bank, फाप्लु, पुतलीसडक, Panasonic, IT",CMPY|PROP|NAV|BRAND|ABBR,True|True|True|True|True,5
+OOV_0007,OOV,"युवा स्वरोजगार, WiFi signal, परिक्षणआयोजना, अस्ट्रेलिया, UCPN",GOVT|CM|GOVT|PROP|ABBR,True|True|True|True|True,5
+OOV_0008,OOV,"अर्जेन्टिना, न्यातापोल, कपिलवस्तु, Purnima Finance, ICC",PROP|PROP|PROP|CMPY|ABBR,True|True|True|True|True,5
+OOV_0009,OOV,"रत्नपार्क, थोरोङ ला, Chilime Hydropower, Subisu, कृष्णमन्दिर",NAV|PROP|CMPY|CMPY|PROP,True|True|True|True|True,5
+OOV_0010,OOV,"Pepsi, Esewa, त्रिपुरेश्वर, मुख्यमन्त्री रोजगार, भोजपुर",BRAND|BRAND|NAV|GOVT|NAV,True|True|True|True|True,5
+OOV_0011,OOV,"दिवङ्गत, संघीय संसद, त्रियुगा, फिनल्याण्ड, बनेपा",PROP|GOVT|PROP|PROP|NAV,True|True|True|True|True,5
+OOV_0012,OOV,"चेन्नईले, ल्हासा, live streaming, Kurkure, पोखरा लेकसाइड",PROP|PROP|CM|BRAND|NAV,True|True|True|True|True,5
+OOV_0013,OOV,"वृद्ध भत्ता, Sensodyne, परराष्ट्र मन्त्रालय, सञ्चार तथा सूचना, refund request",GOVT|BRAND|GOVT|GOVT|CM,True|True|True|True|True,5
+OOV_0014,OOV,"चाबहिल, पुल्चोक, iSmart, दासढुंगामा, खप्तड",NAV|NAV|CMPY|PROP|PROP,True|True|True|True|True,5
+OOV_0015,OOV,"electricity bill online, संविधान संशोधन, पर्यटन मन्त्रालय, सप्तरी, data plan",CM|GOVT|GOVT|PROP|CM,True|True|True|True|True,5
+OOV_0016,OOV,"जोरपाटी, internet bandwidth, ध्रुव, पशुपतिनाथ, format गर्नुस्",NAV|CM|PROP|PROP|CM,True|True|True|True|True,5
+OOV_0017,OOV,"app update, IMF, राजवंशी, गृह मन्त्रालय, सिंचाइ विकास",CM|ABBR|PROP|GOVT|GOVT,True|True|True|True|True,5
+OOV_0018,OOV,"OPM, समृद्ध नेपाल, वफादार, Siddhartha Bank, यूथ",ABBR|GOVT|PROP|CMPY|PROP,True|True|True|True|True,5
+OOV_0019,OOV,"block गर्नुस्, कर्णाली एकीकृत, RAM, story post, Agriculture Development Bank",CM|GOVT|ABBR|CM|CMPY,True|True|True|True|True,5
+OOV_0020,OOV,"Deprosc Laghubitta, थोरोङ पास, Nepal Investment Bank, काठमाडौं, ठमेल",CMPY|PROP|CMPY|PROP|NAV,True|True|True|True|True,5
+OOV_0021,OOV,"Golchha Organisation, Tuborg, backup लिनुस्, मनाङ, GPS location",CMPY|BRAND|CM|PROP|CM,True|True|True|True|True,5
+OOV_0022,OOV,"माघभित्र, Oreo, गौर, टोखा, लोकसेवा आयोग",PROP|BRAND|NAV|NAV|GOVT,True|True|True|True|True,5
+OOV_0023,OOV,"गुरुङ, कोषू, Nepal Life Insurance, Maruti, EV",PROP|GOVT|CMPY|BRAND|ABBR,True|True|True|True|True,5
+OOV_0024,OOV,"INGO, करोड़ौं, Himalayan Bank, WHO, क्यानडा",ABBR|NAV|CMPY|ABBR|PROP,True|True|True|True|True,5
+OOV_0025,OOV,"BC, LG, Zandu, Bhatbhateni, Lifebuoy",ABBR|BRAND|BRAND|BRAND|BRAND,True|True|True|True|True,5
+OOV_0026,OOV,"लाङटाङ हिमाल, म्यानमार, Surf, IME, NIC Asia Bank",PROP|PROP|BRAND|BRAND|CMPY,True|True|True|True|True,5
+OOV_0027,OOV,"नाइजेरिया, कालापत्थर, ब्राजिल, सर्वोच्च अदालत, भानुभक्त",PROP|PROP|PROP|GOVT|PROP,True|True|True|True|True,5
+OOV_0028,OOV,"भीमसेन थान, ऐया, video call गर्ने, चो ओयु, Shikhar Insurance",PROP|PROP|CM|PROP|CMPY,True|True|True|True|True,5
+OOV_0029,OOV,"KTM, लन्डन, जण्डिस, software install, NIBL Ace Capital",ABBR|PROP|PROP|CM|CMPY,True|True|True|True|True,5
+OOV_0030,OOV,"दासढुंगा, ललितपुर महानगर, CPU, Instagram reel, करोड़ौंको",PROP|NAV|ABBR|CM|NAV,True|True|True|True|True,5
+OOV_0031,OOV,"news feed, ऊर्जा मन्त्रालय, हेटौँडा, Panadol, PDF",CM|GOVT|NAV|BRAND|ABBR,True|True|True|True|True,5
+OOV_0032,OOV,"voucher apply, AI, Bouddha Air, CCTV जडान, Chaudhary Group",CM|ABBR|CMPY|CM|CMPY,True|True|True|True|True,5
+OOV_0033,OOV,"मेक्सिको, Xiaomi, अख्तियार दुरुपयोग, URL, चन्द्रागिरि",PROP|BRAND|GOVT|ABBR|NAV,True|True|True|True|True,5
+OOV_0034,OOV,"बराहक्षेत्र, paste गर्नुस्, खानेपानी योजना, इन्डोनेसिया, कालङ्की चोक",PROP|CM|GOVT|PROP|NAV,True|True|True|True|True,5
+OOV_0035,OOV,"रंगखबर, Honda, त्रिलोकचन्द्र, cashback offer, Philips",PROP|BRAND|PROP|CM|BRAND,True|True|True|True|True,5
+OOV_0036,OOV,"Nepal Airlines, हिरण्यवर्ण महाविहार, घण्टाघर, बेइजिङ, phishing attack",CMPY|PROP|NAV|PROP|CM,True|True|True|True|True,5
+OOV_0037,OOV,"NATO, VAT, लक्ष्मीप्रसाद देवकोटा, Head Shoulders, दिगो विकास",ABBR|ABBR|PROP|BRAND|GOVT,True|True|True|True|True,5
+OOV_0038,OOV,"किर्तिपुर, Marriott, Bajaj, धौलागिरि, फिदिम",NAV|CMPY|BRAND|PROP|NAV,True|True|True|True|True,5
+OOV_0039,OOV,"तेह्रथुम, Nabil Bank, बालिका विवाह उत्थान, पृथ्वीनारायण, BNMT",NAV|CMPY|GOVT|PROP|ABBR,True|True|True|True|True,5
+OOV_0040,OOV,"उत्तरायणं, स्विट्जरल्याण्ड, ज्वालामुखी, NGO, NHRC",PROP|PROP|PROP|ABBR|ABBR,True|True|True|True|True,5
+OOV_0041,OOV,"त्रिशूल, Nike, Sunrise Bank, print गर्नुस्, WhatsApp group",PROP|BRAND|CMPY|CM|CM,True|True|True|True|True,5
+OOV_0042,OOV,"स्वयम्भूनाथ, PKR, Daraz, Bluetooth connect, INR",NAV|ABBR|BRAND|CM|ABBR,True|True|True|True|True,5
+OOV_0043,OOV,"freelancing काम, Rastriya Banijya Bank, GPU, ECG, महेन्द्रनगर",CM|CMPY|ABBR|ABBR|NAV,True|True|True|True|True,5
+OOV_0044,OOV,"account login, प्रदेश सरकार, विधवा भत्ता, राष्ट्रिय स्वास्थ्य बिमा, अनुदान कार्यक्रम",CM|GOVT|GOVT|GOVT|GOVT,True|True|True|True|True,5
+OOV_0045,OOV,"GNP, भोटे, Goldstar, Dove, unfollow गर्नुस्",ABBR|PROP|BRAND|BRAND|CM,True|True|True|True|True,5
+OOV_0046,OOV,"trending topic, UNESCO, Tara Air, बानेश्वर चोक, राजस्व अनुसन्धान",CM|ABBR|CMPY|NAV|GOVT,True|True|True|True|True,5
+OOV_0047,OOV,"EMI मा किन्नुस्, Wai Wai, hardware problem, Closeup, Google search",CM|BRAND|CM|BRAND|CM,True|True|True|True|True,5
+OOV_0048,OOV,"सप्तकोशी, फेवा ताल, VPN, धुलिखेल, API",PROP|PROP|ABBR|NAV|ABBR,True|True|True|True|True,5
+OOV_0049,OOV,"वन विभाग, WFP, धनकुटा, जलेश्वर, नक्साल",GOVT|ABBR|NAV|NAV|NAV,True|True|True|True|True,5
+OOV_0050,OOV,"GPS, Hetauda Cement, CG, तुलसीमेहर, Ruslan",ABBR|CMPY|BRAND|PROP|BRAND,True|True|True|True|True,5
+OOV_0051,OOV,"UNHCR, Summit Air, Gillette, अौं, तामाङ",ABBR|CMPY|BRAND|PROP|PROP,True|True|True|True|True,5
+OOV_0052,OOV,"UNDP, PCR, Hyatt Regency, औडाहा, smartphone चार्ज",ABBR|ABBR|CMPY|PROP|CM,True|True|True|True|True,5
+OOV_0053,OOV,"अर्थ मन्त्रालय, reset गर्नुस्, विशेष अदालत, बुढीगण्डकी, Muktinath Development Bank",GOVT|CM|GOVT|PROP|CMPY,True|True|True|True|True,5
+OOV_0054,OOV,"पनौती, ConnectIPS, screenshot लिनुस्, Soaltee Hotel, कोटेश्वर",NAV|BRAND|CM|CMPY|NAV,True|True|True|True|True,5
+OOV_0055,OOV,"Nepal Oil Corporation, ASEAN, सिन्धुपाल्चोक, पाथिभरा देवी, सैनिक प्रशिक्षण",CMPY|ABBR|PROP|PROP|GOVT,True|True|True|True|True,5
+OOV_0056,OOV,"Snickers, गोकर्णेश्वर, चाँगुनारायण, दमक, CT",BRAND|NAV|PROP|NAV|ABBR,True|True|True|True|True,5
+OOV_0057,OOV,"संर्घष, जँचाउन, मगर, स्पेन, Neco Insurance",PROP|PROP|PROP|PROP|CMPY,True|True|True|True|True,5
+OOV_0058,OOV,"Sanima Bank, सामाजिक सुरक्षा, Century Commercial Bank, password बिर्सनु, न्यायपालिका",CMPY|GOVT|CMPY|CM|GOVT,True|True|True|True|True,5
+OOV_0059,OOV,"Karnali Hydropower, गोसाइँकुण्ड, Suzuki, online बुकिङ, कार्यपालिका",CMPY|PROP|BRAND|CM|GOVT,True|True|True|True|True,5
+OOV_0060,OOV,"Colgate, Nepal SBI Bank, लाजिम्पाट, सडक विस्तार, रूथ",BRAND|CMPY|NAV|GOVT|PROP,True|True|True|True|True,5
+OOV_0061,OOV,"लिम्बु, कञ्चनजङ्घा, reboot गर्नुस्, राई, like comment",PROP|PROP|CM|PROP|CM,True|True|True|True|True,5
+OOV_0062,OOV,"अन्नपूर्णा, थारू, confirm गर्नुस्, स्वास्थ्य मन्त्रालय, Kumari Bank",PROP|PROP|CM|GOVT|CMPY,True|True|True|True|True,5
+OOV_0063,OOV,"कृषि मन्त्रालय, भूमि व्यवस्था, Khalti, नागरिक उड्डयन, TV",GOVT|GOVT|BRAND|GOVT|ABBR,True|True|True|True|True,5
+OOV_0064,OOV,"CIAA, शिक्षा मन्त्रालय, सिमरा, महालेखा परीक्षक, चितवन",ABBR|GOVT|NAV|GOVT|PROP,True|True|True|True|True,5
+OOV_0065,OOV,"नेपालकॊ, ICU, त्रिशूलगंगा, Machhapuchchhre Bank, भौतिक पूर्वाधार",CMPY|ABBR|PROP|CMPY|GOVT,True|True|True|True|True,5
+OOV_0066,OOV,"Realme, थाइल्याण्ड, अर्धदक्ष, Vianet, मनकामना",BRAND|PROP|PROP|CMPY|PROP,True|True|True|True|True,5
+OOV_0067,OOV,"देवघाट, Lipton, फर्पिङ, EUR, मुस्ताङ",PROP|BRAND|NAV|ABBR|PROP,True|True|True|True|True,5
+OOV_0068,OOV,"submit गर्नुस्, OTP, PM, भ्रष्टाचार नियन्त्रण, प्रहरी प्रशिक्षण",CM|ABBR|ABBR|GOVT|GOVT,True|True|True|True|True,5
+OOV_0069,OOV,"बुटवल, गोक्यो री, mute गर्नुस्, नर्वे, laptop charge",NAV|PROP|CM|PROP|CM,True|True|True|True|True,5
+OOV_0070,OOV,"काभ्रेपलाञ्चोक, गणेश हिमाल, AM, FM, Coca-Cola",NAV|PROP|ABBR|ABBR|BRAND,True|True|True|True|True,5
+OOV_0071,OOV,"report गर्नुस्, जर्मनी, Adidas, Laxmi Sunrise Bank, Nabil Invest",CM|PROP|BRAND|CMPY|CMPY,True|True|True|True|True,5
+OOV_0072,OOV,"Janata Bank, छभने, खोटाङ सदरमुकाम, Patanjali, कर्णाली नदी",CMPY|PROP|NAV|BRAND|PROP,True|True|True|True|True,5
+OOV_0073,OOV,"राष्ट्रिय सभा, लहान, KitKat, Shree Airlines, खाद्य व्यवस्था",GOVT|NAV|BRAND|CMPY|GOVT,True|True|True|True|True,5
+OOV_0074,OOV,"selfie खिच्नुस्, ADB, USB, महान्यायाधिवक्ता, बिर्तामोड",CM|ABBR|ABBR|GOVT|NAV,True|True|True|True|True,5
+OOV_0075,OOV,"सम्झ्ौता, महिला बालबालिका, CCTV, UNICEF, अर्धचेत",PROP|GOVT|ABBR|ABBR|PROP,True|True|True|True|True,5
+OOV_0076,OOV,"ल्होत्से, Bira, नाम्चे बजार, नेपालगञ्ज, SEBON",PROP|BRAND|PROP|NAV|ABBR,True|True|True|True|True,5
+OOV_0077,OOV,"roaming charge, महोत्तरी, Hyundai, कथंकदाचित, ML",CM|PROP|BRAND|PROP|ABBR,True|True|True|True|True,5
+OOV_0078,OOV,"Nepal Telecom, CG Corp Global, बुद्धचोकमा, भियतनाम, छउन्जेल",CMPY|CMPY|NAV|PROP|PROP,True|True|True|True|True,5
+OOV_0079,OOV,"प्रतिनिधि सभा, सहइन्चार्ज, सिन्धुली, वातावरण मन्त्रालय, Surf Excel",GOVT|PROP|NAV|GOVT|BRAND,True|True|True|True|True,5
+OOV_0080,OOV,"लगानी बोर्ड, बागबजार, चेन्नई, श्रीलङ्का, Himalaya",GOVT|NAV|PROP|PROP|BRAND,True|True|True|True|True,5
+OOV_0081,OOV,"नवलपुर, सुकुम्बासी आवास, लुक्ला, Hamro Bazar, Maggi",PROP|GOVT|PROP|BRAND|BRAND,True|True|True|True|True,5
+OOV_0082,OOV,"वीरगञ्ज, Citizens Bank, व्यवस्थापिका, OS, IP",NAV|CMPY|GOVT|ABBR|ABBR,True|True|True|True|True,5
+OOV_0083,OOV,"श्रीस्वस्थानी, Bhatbhateni Superstore, बालाजु बाइपास, WiFi, Prime Commercial Bank",PROP|CMPY|NAV|ABBR|CMPY,True|True|True|True|True,5
+OOV_0084,OOV,"केन्द्रीय अनुसन्धान, AD, MRI, Civil Bank, Puma",GOVT|ABBR|ABBR|CMPY|BRAND,True|True|True|True|True,5
+OOV_0085,OOV,"ATM, Cadbury, OTP पठाउनुस्, भेरी नदी, दुईथरी",ABBR|BRAND|CM|PROP|PROP,True|True|True|True|True,5
+OOV_0086,OOV,"चेपाङ, BIPPA, बौद्ध स्तूप, mobile recharge, प्रधानमन्त्री आवास",PROP|ABBR|NAV|CM|GOVT,True|True|True|True|True,5
+OOV_0087,OOV,"ICIMOD, हफ्ता, न्युजिल्याण्ड, कालीञ्चोकमा, Fanta",ABBR|PROP|PROP|NAV|BRAND,True|True|True|True|True,5
+OOV_0088,OOV,"ज्ञानेन्द्र, profile update, वाशिङटन, Lays, कृषि ऋण",PROP|CM|PROP|BRAND|GOVT,True|True|True|True|True,5
+OOV_0089,OOV,"श्रद्धा, विद्युत् प्राधिकरण, पोर्चुगल, digital payment, अपाङ्गता भत्ता",PROP|GOVT|PROP|CM|GOVT,True|True|True|True|True,5
+OOV_0090,OOV,"माधवप्रसाद घिमिरे, USD, Yeti Airlines, Oppo, ग्ल्यासिअर",PROP|ABBR|CMPY|BRAND|PROP,True|True|True|True|True,5
+OOV_0091,OOV,"Sagarmatha Insurance, सोरठी, श्रम मन्त्रालय, प्रज्ञा, खाँदबारी",CMPY|PROP|GOVT|PROP|NAV,True|True|True|True|True,5
+OOV_0092,OOV,"SAARC, Prabhu Money, दक्षिणकाली, delete गर्नुस्, Whirlpool",ABBR|CMPY|NAV|CM|BRAND,True|True|True|True|True,5
+OOV_0093,OOV,"पउल, SIM swap, नेपाल विद्युत्, फ्रान्स, OldDurbar",PROP|CM|GOVT|PROP|BRAND,True|True|True|True|True,5
+OOV_0094,OOV,"दोलखा, स्थूल, नेवार, जिल्ला अदालत, HR",PROP|PROP|PROP|GOVT|ABBR,True|True|True|True|True,5
+OOV_0095,OOV,"भूमि व्यवस्थापन, पर्सा, NRB, दिल्ली, Classic Tech",GOVT|PROP|ABBR|PROP|CMPY,True|True|True|True|True,5
+OOV_0096,OOV,"Bata, बुढानीलकण्ठ, Everest Bank, रौतहट, share गर्नुस्",BRAND|NAV|CMPY|PROP|CM,True|True|True|True|True,5
+OOV_0097,OOV,"upload भयो, घरपझोङ, आत्मनिर्भर, घोसणा, ओखलढुङ्गा",CM|PROP|GOVT|PROP|NAV,True|True|True|True|True,5
+OOV_0098,OOV,"चउरमा, माइतीघर, एकल महिला, Dabur, GBP",PROP|NAV|GOVT|BRAND|ABBR,True|True|True|True|True,5
+OOV_0099,OOV,"इथियोपिया, MOU, डोल्पा, नागार्जुन वन, Global IME Bank",PROP|ABBR|PROP|NAV|CMPY,True|True|True|True|True,5
+OOV_0100,OOV,"Buddha Air, SSD, Yamaha, delivery tracking, cancel गर्नुस्",CMPY|ABBR|BRAND|CM|CM,True|True|True|True|True,5
+OOV_0101,OOV,"NMB Bank, इलाम बजार, scan गर्नुस्, Kamana Sewa Bank, सोलुखुम्बु",CMPY|NAV|CM|CMPY|PROP,True|True|True|True|True,5
+OOV_0102,OOV,"Sasto Deal, Sastodeal, Simrik Airlines, खोटाङ, Levi",BRAND|CMPY|CMPY|PROP|BRAND,True|True|True|True|True,5
+OOV_0103,OOV,"सूर्यविनायक, Roadhouse Cafe, Bosch, मुक्तिनाथ, मनास्लु",NAV|CMPY|BRAND|PROP|PROP,True|True|True|True|True,5
+OOV_0104,OOV,"मेषः, email पठाउनुस्, जनजाति उत्थान, TikTok video, ROM",PROP|CM|GOVT|CM|ABBR,True|True|True|True|True,5
+OOV_0105,OOV,"BigMart, पुम्री हिउँचुली, दलित सशक्तिकरण, इटहरी, Muktinath Bikas Bank",CMPY|PROP|GOVT|NAV|CMPY,True|True|True|True|True,5
+OOV_0106,OOV,"NPR, निर्वाचन आयोग, notification आयो, Muncha House, त्सोरोलपा",ABBR|GOVT|CM|CMPY|PROP,True|True|True|True|True,5
+OOV_0107,OOV,"तिल्मान पास, cloud storage, कलैया, cyber crime, IoT",PROP|CM|NAV|CM|ABBR,True|True|True|True|True,5
+OOV_0108,OOV,"Saleways, Facebook post, युवा तथा खेलकुद, मकालु, fast internet",CMPY|CM|GOVT|PROP|CM,True|True|True|True|True,5
+OOV_0109,OOV,"राष्ट्रिय योजना आयोग, हलेसी महादेव, रामेछाप, नलु, Ariel",GOVT|PROP|NAV|NAV|BRAND,True|True|True|True|True,5
+OOV_0110,OOV,"धनगढी, Sprite, Sewa Laghubitta, IME Remit, SMS",NAV|BRAND|CMPY|CMPY|ABBR,True|True|True|True|True,5
+OOV_0111,OOV,"HDD, download गर्नुस्, जलस्रोत विभाग, Garima Bikas Bank, Lux",ABBR|CM|GOVT|CMPY|BRAND,True|True|True|True|True,5
+OOV_0112,OOV,"ह्युम्बु, Reebok, नयाँबानेश्वर, स्वर्गद्वारी, VS",PROP|BRAND|NAV|PROP|ABBR,True|True|True|True|True,5
+OOV_0113,OOV,"Himalayan Java, पर्यटन बोर्ड, उद्योग वाणिज्य, Nescafe, फ्वाङलुङ",CMPY|GOVT|GOVT|BRAND|PROP,True|True|True|True|True,5
+OOV_0114,OOV,"OnePlus, राजविराज, मन्त्रिपरिषद्, copy गर्नुस्, YouTube channel",BRAND|NAV|GOVT|CM|CM,True|True|True|True|True,5
+OOV_0115,OOV,"पाँचथर, उच्च अदालत, ढल्केबर, photoshop गर्नुस्, FNCCI",NAV|GOVT|NAV|CM|ABBR,True|True|True|True|True,5
+OOV_0116,OOV,"Websurfer, शेर्पा, typing गर्दैछ, वज्रयोगिनी, जनकपुर धाम",CMPY|PROP|CM|PROP|NAV,True|True|True|True|True,5
+OOV_0117,OOV,"upgrade गर्नुस्, ताप्लेजुङ, FDI, काठमाडौः, Standard Chartered",CM|NAV|ABBR|PROP|CMPY,True|True|True|True|True,5
+OOV_0118,OOV,"subscribe गर्नुस्, Huawei, PIN, SIM, ग्रीस",CM|BRAND|ABBR|ABBR|PROP,True|True|True|True|True,5
+OOV_0119,OOV,"Nokia, शिवपुरी, Dettol, Pantene, Worldlink",BRAND|NAV|BRAND|BRAND|CMPY,True|True|True|True|True,5
+IV_0001,IV,"इडिभी, बैंकरहरू, कन्जुसाई, बताउनुहुन्छ, अग्रवालका",BRAND|CMPY|ABBR|BRAND|CM,False|False|False|False|False,5
+IV_0002,IV,"डिउटी, नेपालीबाट, श्रमजीवी, योजनासहित, फोटोमार्फत",PROP|CMPY|BRAND|GOVT|ABBR,False|False|False|False|False,5
+IV_0003,IV,"दायरालाई, नेपालीहरुले, पटानीले, प्रोग्रामर, डाईभर्सन",CM|CMPY|CM|CM|PROP,False|False|False|False|False,5
+IV_0004,IV,"बर्षातको, कानूनतः, शुक्लागण्डकी, प्रोडुसरको, छाडौैं",BRAND|CM|BRAND|NAV|ABBR,False|False|False|False|False,5
+IV_0005,IV,"नेपोलिक, नेपालगंजमा, मिलनचोकका, जोनीको, टालटुले",PROP|CMPY|NAV|CM|BRAND,False|False|False|False|False,5
+IV_0006,IV,"पर्दैैन, मिरन, निगमको, नचिन, जनाएकोछ",BRAND|PROP|GOVT|ABBR|CM,False|False|False|False|False,5
+IV_0007,IV,"मन्त्रालयसंगको, रकमका, प्रतिनिधिहरु, अपमानजनक, जलप्रलयले",GOVT|CM|CM|PROP|CM,False|False|False|False|False,5
+IV_0008,IV,"सञ्जिन, गीतका, कमलादीस्थित, साल्ट, रुसमा",ABBR|BRAND|ABBR|CM|CM,False|False|False|False|False,5
+IV_0009,IV,"प्रोडक्सनको, बाँके, भुट्टोको, चेतनामुलक, नेपालप्रतिको",NAV|ABBR|CM|PROP|CMPY,False|False|False|False|False,5
+IV_0010,IV,"नेपालसम्बत, कर्पोरेशनबाट, सडकखण्डमा, विभागहरूमा, पानीलाई",CMPY|CMPY|NAV|GOVT|ABBR,False|False|False|False|False,5
+IV_0011,IV,"पुल्चोकबाट, बोकेका, प्राधिकरणमा, सिक्दैछन्, टोलीहरुसग",NAV|PROP|GOVT|BRAND|BRAND,False|False|False|False|False,5
+IV_0012,IV,"व्यवसायीहरुको, श्रृंखलाले, धम्कीसम्म, खड्कासहित, खगिसरा",BRAND|PROP|ABBR|PROP|PROP,False|False|False|False|False,5
+IV_0013,IV,"इन्टरनेशनलमा, विधेयकलाई, परियोजनामार्फत, जनबाट, नेपालबिरुद्ध",CMPY|ABBR|GOVT|ABBR|CMPY,False|False|False|False|False,5
+IV_0014,IV,"व्यावसायिकरुपमा, आयोगमा, नेपालगंज, हुुनुअघि, पुतलीसडकको",CM|GOVT|CMPY|CM|NAV,False|False|False|False|False,5
+IV_0015,IV,"आयोजनाको, आयोजनामा, समितिकातर्फबाट, अध्ययनशील, अटोग्राफ",GOVT|GOVT|GOVT|CM|CM,False|False|False|False|False,5
+IV_0016,IV,"कमजोर, पृथ्वीचोकदेखि, रेलमार्गको, मार्गप्रशस्त, क्षेत्रबहादुर",PROP|NAV|NAV|NAV|ABBR,False|False|False|False|False,5
+IV_0017,IV,"लागेको, रायपुर, पेटभित्रै, सुरुङमार्ग, इनरुवाको",CM|BRAND|ABBR|NAV|PROP,False|False|False|False|False,5
+IV_0018,IV,"सान, नेपालीज्यू, रिङरोडमा, डोमेनसँग, बैंकर",PROP|CMPY|NAV|BRAND|CMPY,False|False|False|False|False,5
+IV_0019,IV,"भिएलएनका, नेपाललार्इ, धावनमार्गका, आँशुका, कालिञ्चोकमा",BRAND|CMPY|NAV|CM|NAV,False|False|False|False|False,5
+IV_0020,IV,"मुट्ठाले, टेम्लेटलेट, टपनेपालन्युजडटकमसँग, सुमार्गीबीच, पारजित",PROP|BRAND|CMPY|NAV|BRAND,False|False|False|False|False,5
+IV_0021,IV,"करातें, नरक, सुकन्या, मन्त्रालयद्वारा, पाउण्ड",BRAND|CM|CM|GOVT|PROP,False|False|False|False|False,5
+IV_0022,IV,"सटमा, प्रतिक्षा, नेपालगञ्जबाट, दिइएर, थाहाहुने",BRAND|BRAND|CMPY|BRAND|ABBR,False|False|False|False|False,5
+IV_0023,IV,"मन्त्रालय, आक्रमणका, नजुधाई, उपचारले, थाह",GOVT|ABBR|PROP|CM|CM,False|False|False|False|False,5
+IV_0024,IV,"आयोजनाहरु, आयोगलेभ्रष्टाचार, मार्गदर्शक, स्पाइवेयर, समितिसमेत",GOVT|GOVT|NAV|BRAND|GOVT,False|False|False|False|False,5
+IV_0025,IV,"नेपालीसँग, बैठकहरुमा, प्राधिकरणबीच, निर्माणस्थलमै, नबोल्ने",CMPY|PROP|GOVT|CM|ABBR,False|False|False|False|False,5
+IV_0026,IV,"परियोजनासहित, अर्थतन्त्रका, परमेश्वरपट्टिबाट, अठ्ठाईस, धाराको",GOVT|ABBR|PROP|ABBR|CM,False|False|False|False|False,5
+IV_0027,IV,"बैंकमा, र्तिन, आढईदेखि, अल्बर्टीले, नेस्याङ",CMPY|CM|ABBR|CM|ABBR,False|False|False|False|False,5
+IV_0028,IV,"योजनाअन्तर्गतका, इस्टभान्ने, तलासम्म, पाइनुका, चक्रवृत्ति",GOVT|ABBR|CM|CM|ABBR,False|False|False|False|False,5
+IV_0029,IV,"नेपालभन्दा, नेपालीहरू, कार्यक्रमविच, नेपाललगायत, कार्यक्रमहरूको",CMPY|CMPY|GOVT|CMPY|GOVT,False|False|False|False|False,5
+IV_0030,IV,"अग्ला, लिमिटेडको, बनेपालीलाई, बोर्डबाट, गरिदिनुभयो",CM|CMPY|CMPY|GOVT|BRAND,False|False|False|False|False,5
+IV_0031,IV,"लिएपछि, शिक्षकललाई, सडकमार्ग, आउदैछौ, शपथग्रहण",CM|ABBR|NAV|ABBR|NAV,False|False|False|False|False,5
+IV_0032,IV,"बोटबाटै, रत्पपार्क, मार्गको, रोड, प्रवेशद्वारको",PROP|PROP|NAV|NAV|BRAND,False|False|False|False|False,5
+IV_0033,IV,"माइक्रोफाइनान्स, सुसमाचारको, बैंकक, थाईनेपाल, सपथग्रहण",CMPY|PROP|CMPY|CMPY|NAV,False|False|False|False|False,5
+IV_0034,IV,"ब्यक्तिप्रति, दुईपक्षीय, युद्धकालको, चाँजो, सेक्सबारे",CM|ABBR|PROP|BRAND|PROP,False|False|False|False|False,5
+IV_0035,IV,"खूला, भन्नुपथ्र्यो, लेन, सवैका, चारबुँदे",ABBR|NAV|CM|BRAND|BRAND,False|False|False|False|False,5
+IV_0036,IV,"मधेसकेन्द्रीत, बनेपाली, भोकमरी, योजनाले, कान्तिलोकपथ",BRAND|CMPY|CM|GOVT|NAV,False|False|False|False|False,5
+IV_0037,IV,"नेपालीद्वारा, थामिनसक्नु, तलबको, पस्किएको, नेपालीले",CMPY|PROP|BRAND|PROP|CMPY,False|False|False|False|False,5
+IV_0038,IV,"रेलमार्ग, नेपालद्वारा, लीटर, सडकको, प्रोजेक्टले",NAV|CMPY|ABBR|NAV|BRAND,False|False|False|False|False,5
+IV_0039,IV,"चारकरोडका, बिम्स्टेकलाई, कार्यक्रमवाट, बोटबिरुवामा, चौधरी",NAV|PROP|GOVT|ABBR|BRAND,False|False|False|False|False,5
+IV_0040,IV,"चोकनजिकै, बागबजारमा, जनाभन्दा, धुर्व, कारोबारतर्फ",NAV|CM|ABBR|PROP|PROP,False|False|False|False|False,5
+IV_0041,IV,"इन्दिराको, फाइनान्सका, नेपालीहरुबाट, आयोजनासँग, न्यूरोडमामा",BRAND|CMPY|CMPY|GOVT|NAV,False|False|False|False|False,5
+IV_0042,IV,"संसोधित, लैजानु, नाममात्रको, काठमाडौंले, मिली",CM|PROP|BRAND|CM|CM,False|False|False|False|False,5
+IV_0043,IV,"धावनमार्गसहितको, सडकहरूमा, शब्दकोष, निगम, चक्रपथमा",NAV|NAV|GOVT|GOVT|NAV,False|False|False|False|False,5
+IV_0044,IV,"न्यूरोडको, अलबामा, नेपाल्स, मन्त्रालयजस्ता, बैंकहरूलाई",NAV|ABBR|CMPY|GOVT|CMPY,False|False|False|False|False,5
+IV_0045,IV,"रनेपालमा, रोजगारीसहितका, सपनाबीच, पृथ्वीराजमार्गस्थित, कोषिकाहरूले",CMPY|PROP|PROP|NAV|GOVT,False|False|False|False|False,5
+IV_0046,IV,"विपन्नलाई, घट्यो, प्राधिकरणसँगको, मन्त्रालयहरु, मार्गहरु",ABBR|BRAND|GOVT|GOVT|NAV,False|False|False|False|False,5
+IV_0047,IV,"नेपालसँगको, गर्भधारणका, जुत्ताबाट, होण्डुरसलाई, कार्यक्रम्मा",CMPY|CM|PROP|ABBR|GOVT,False|False|False|False|False,5
+IV_0048,IV,"कर्तव्यपथमा, कार्यक्रमले, किराँतहरुले, नेपालगञ्जको, हिड्छे",NAV|GOVT|BRAND|CMPY|CM,False|False|False|False|False,5
+IV_0049,IV,"राजमार्गकै, मन्त्रालयमातहतको, झिकाउनुपथ्र्यो, करोडको, सोँचको",NAV|GOVT|NAV|NAV|PROP,False|False|False|False|False,5
+IV_0050,IV,"माड, लोकपथ, रसेल, रिङरोडभित्र, शेखरको",PROP|NAV|CM|NAV|ABBR,False|False|False|False|False,5
+IV_0051,IV,"परियोजनाहरु, पढाइको, आयोगविरुद्ध, गुरुयोजनामा, प्रदेशसभाको",GOVT|PROP|GOVT|GOVT|BRAND,False|False|False|False|False,5
+IV_0052,IV,"नचलेको, करोडपति, युनिभर्सिटीका, पूर्वका, बैंकहरूबीच",CM|NAV|PROP|CM|CMPY,False|False|False|False|False,5
+IV_0053,IV,"नेपालीहरूमा, मन्त्रिपरिषद्लाई, प्रतापसँगै, आमाकहाँ, यूकेको",CMPY|BRAND|BRAND|ABBR|BRAND,False|False|False|False|False,5
+IV_0054,IV,"विभागीय, उत्साहजनकरुपमा, मतदानस्थल, बोर्डिङपास, दुर्घटनासमेत",GOVT|BRAND|ABBR|GOVT|PROP,False|False|False|False|False,5
+IV_0055,IV,"नायक, अकाउन्ट, विपी, नेपालीहरूले, स्थानीयद्वारा",PROP|BRAND|PROP|CMPY|PROP,False|False|False|False|False,5
+IV_0056,IV,"जक्सन, नेपालतर्फका, श्रष्टालाई, बनेपाले, नेपालभित्र",CM|CMPY|PROP|CMPY|CMPY,False|False|False|False|False,5
+IV_0057,IV,"बाटा, ग्रुपसँग, निस्कर्ष, प्रतिष्ठित, बैंकद्वारा",PROP|CMPY|BRAND|BRAND|CMPY,False|False|False|False|False,5
+IV_0058,IV,"बहादुरीपूर्वक, ट्यांकरसँग, भलिबलको, विशेषताका, उठाइरहेका",BRAND|ABBR|BRAND|PROP|ABBR,False|False|False|False|False,5
+IV_0059,IV,"समुदायका, नेपालगञ्जदेखि, पर्थ्यो, पथरी, बैंकको",CM|CMPY|ABBR|NAV|CMPY,False|False|False|False|False,5
+IV_0060,IV,"सातकरोड, जनै, राजनीति, प्रत्यारोपणपछि, समितिहरू",NAV|ABBR|ABBR|BRAND|GOVT,False|False|False|False|False,5
+IV_0061,IV,"श्रीदेवीको, व्यवस्थापछि, प्रोडक्ट, बैंकिङको, दोगडाकेदार",BRAND|BRAND|NAV|CMPY|ABBR,False|False|False|False|False,5
+IV_0062,IV,"सामर्थ्य, बोर्डले, संलग्नक, चोटिको, दसैंको",PROP|GOVT|CM|CM|ABBR,False|False|False|False|False,5
+IV_0063,IV,"कार्यक्रमहरुको, मन्त्रालयहरुको, चलखेलका, चत्रपथभित्रका, प्लेब्वायको",GOVT|GOVT|ABBR|NAV|PROP,False|False|False|False|False,5
+IV_0064,IV,"करोड, बालिकाहरुमाथि, सम्झना, शपथमा, बैंकहरुमा",NAV|BRAND|PROP|NAV|CMPY,False|False|False|False|False,5
+IV_0065,IV,"अहिलेका, योजनाप्रति, काठमाडौँः, शिखरपोष्ट, वृद्धले",PROP|GOVT|PROP|ABBR|BRAND,False|False|False|False|False,5
+IV_0066,IV,"प्रतिभाको, ढले, नेपालीमनको, त्यसले, इस्टर्नाइजेसन",BRAND|CM|CMPY|ABBR|BRAND,False|False|False|False|False,5
+IV_0067,IV,"फूर्तिलो, समितिहरुलाइ, मार्गचित्रबमोजिम, चलाऊन, बैंकरहरुलाई",BRAND|GOVT|NAV|ABBR|CMPY,False|False|False|False|False,5
+IV_0068,IV,"बैंकहरुको, बैंकलाई, मन्त्रालयले, नेपालआजको, पठाउनुपर्यो",CMPY|CMPY|GOVT|CMPY|ABBR,False|False|False|False|False,5
+IV_0069,IV,"घनत्व, तोडमरोड, प्रयोजनार्थ, नेपालीहरुकोलागि, कालिञ्चोकदेखि",ABBR|NAV|GOVT|CMPY|NAV,False|False|False|False|False,5
+IV_0070,IV,"चोकको, पछिल्लोपल्ट, उन्मूलन, प्रतिस्पर्धी, निर्जिव",NAV|BRAND|CM|CM|BRAND,False|False|False|False|False,5
+IV_0071,IV,"मन्त्रालयसंग, पुलिसकी, प्रतिवादीका, गुमाई, गोलीसहित",GOVT|CM|BRAND|CM|BRAND,False|False|False|False|False,5
+IV_0072,IV,"परियोजनामा, आयोजनासंगै, संगठनमाझ, योनी, नेपालका",GOVT|GOVT|BRAND|BRAND|CMPY,False|False|False|False|False,5
+IV_0073,IV,"कम्युनिकेशन, उहाँसँग, नपुग्दै, पाउनसक्ने, परराष्ट्रसचिव",PROP|ABBR|CM|CM|CM,False|False|False|False|False,5
+IV_0074,IV,"ब्युँतिने, घुम्टो, समितिले, दिइनन्, कमलाकुमारी",CM|PROP|GOVT|BRAND|CM,False|False|False|False|False,5
+IV_0075,IV,"सडकखण्डका, मन्त्रालयमार्फत, बागबजारको, भोलीबाट, लोकमार्गको",NAV|GOVT|BRAND|CM|NAV,False|False|False|False|False,5
+IV_0076,IV,"इन्साइक्लोपडिया, जापानलाई, अहँ, टेलिभिजनले, विभागबाट",BRAND|PROP|ABBR|ABBR|GOVT,False|False|False|False|False,5
+IV_0077,IV,"धोबीघाटमा, इन्ड, यौनांगमा, नेपालमात्रै, कार्यसमिति",PROP|CM|CM|CMPY|GOVT,False|False|False|False|False,5
+IV_0078,IV,"सरोकारका, वासीनेपालीहरुलाई, बैंकिङ्गबाट, अन्तरमन्त्रालयबिच, बढाईने",BRAND|CMPY|CMPY|GOVT|ABBR,False|False|False|False|False,5
+IV_0079,IV,"प्रभाषको, पुरेको, धिरेन, दुतावासका, बौद्धमार्गीहरुको",CM|ABBR|PROP|PROP|NAV,False|False|False|False|False,5
+IV_0080,IV,"न्यूरोड, रहेकाहरु, फुटबलर, गणेशमानचोकदेखि, कार्यक्रमअन्तर्गत",NAV|ABBR|BRAND|NAV|GOVT,False|False|False|False|False,5
+IV_0081,IV,"नेपालजस्तो, साताजति, स्कटनेपाल, कोषमार्फत, मुम्बईका",CMPY|CM|CMPY|GOVT|ABBR,False|False|False|False|False,5
+IV_0082,IV,"प्रवाह, नेपालसंगको, शपथ, आउँदैनन्, मिलनचोकमा",CM|CMPY|NAV|PROP|NAV,False|False|False|False|False,5
+IV_0083,IV,"लोग्ने, प्राधिकरणकै, पृथ्वीराजमार्ग, चारको, होमबलि",ABBR|GOVT|NAV|CM|ABBR,False|False|False|False|False,5
+IV_0084,IV,"साफ, समितिमार्फत, बताईन, लिमिटेडमा, बनाउँछौं",PROP|GOVT|CM|CMPY|ABBR,False|False|False|False|False,5
+IV_0085,IV,"हल्चोकमा, गुरुयोजनाअनुसार, साटिएको, पर्खनुस्, नयाँघरे",NAV|GOVT|CM|PROP|PROP,False|False|False|False|False,5
+IV_0086,IV,"करोडकाे, किस्तबन्दीमा, गांउमा, आयोजनाले, नेपालकै",NAV|CM|ABBR|GOVT|CMPY,False|False|False|False|False,5
+IV_0087,IV,"विकेट, परियोजनाअन्तर्गत, विभागसम्बन्धी, रोडमा, समितिद्वारा",ABBR|GOVT|GOVT|NAV|GOVT,False|False|False|False|False,5
+IV_0088,IV,"उपरीक्षकसहित, पेजबाट, आयोगलाई, न्युरोड, नीर",CM|BRAND|GOVT|NAV|CM,False|False|False|False|False,5
+IV_0089,IV,"द्वन्द्वकालपछि, सुझावः, ब्रह्मायणी, पापहरू, घुसखोरी",PROP|ABBR|PROP|ABBR|BRAND,False|False|False|False|False,5
+IV_0090,IV,"नेपालीहरुको, मन्त्रालयका, आयोजनास्थलमै, नेपालगन्जदेखि, कान्तिलोकपथको",CMPY|GOVT|GOVT|CMPY|NAV,False|False|False|False|False,5
+IV_0091,IV,"ट्यूबवेल, आयोजनामध्ये, योजनाविनै, टोलीकी, नेपालबीच",CM|GOVT|GOVT|PROP|CMPY,False|False|False|False|False,5
+IV_0092,IV,"आयोजनाहर, आइसीआरसीले, कञ्चनजंघा, सडकलाई, कार्यक्रममाथि",GOVT|PROP|ABBR|NAV|GOVT,False|False|False|False|False,5
+IV_0093,IV,"आयोगले, आयोग, प्रयोजनाका, बिचौलियामुक्त, मार्दैन",GOVT|GOVT|GOVT|PROP|PROP,False|False|False|False|False,5
+IV_0094,IV,"महामुनेश्वर, अक्षरमार्ग, राष्ट्रबैंक, पथरीशनिश्चरे, परोडियाका",ABBR|NAV|CMPY|NAV|NAV,False|False|False|False|False,5
+IV_0095,IV,"पछिल्तिर, भूइँ, रेडियोले, विष्लेण, खहरेचोकसम्म",BRAND|CM|BRAND|PROP|NAV,False|False|False|False|False,5
+IV_0096,IV,"बखत्, स्चेक्मनले, बैंकहरूको, मुलुकहरुमा, हिसाव",BRAND|ABBR|CMPY|ABBR|ABBR,False|False|False|False|False,5
+IV_0097,IV,"सुमार्गीसँग, परीरहेको, नेपालीसंग, छविलाई, बैंकले",NAV|BRAND|CMPY|BRAND|CMPY,False|False|False|False|False,5
+IV_0098,IV,"मन्त्रालयबाट, मण्डपमा, अनशनबाट, उपभोग्यदेखि, नेपालगन्जको",GOVT|CM|PROP|ABBR|CMPY,False|False|False|False|False,5
+IV_0099,IV,"क्लिप, बैंकिङ, पञ्चायत, सकिनस्, रोएकी",PROP|CMPY|BRAND|ABBR|BRAND,False|False|False|False|False,5
+IV_0100,IV,"व्यक्तिहरूले, मुटुरोग, हेर्नलाई, साँधेको, प्राथमिकिकरण",CM|ABBR|PROP|ABBR|PROP,False|False|False|False|False,5
+IV_0101,IV,"लिनेपनि, कानुनी, शंकाले, पुस्तकहरूमा, सुरुङमार्गले",ABBR|BRAND|CM|CM|NAV,False|False|False|False|False,5
+IV_0102,IV,"वृतवाट, प्रोडक्सन्, ग्रुपले, सडको, हुथी",PROP|NAV|CMPY|NAV|PROP,False|False|False|False|False,5
+IV_0103,IV,"विभागसँग, मुसहर, कुलेबाले, छुनैपर्छ, तालचोकसम्म",GOVT|PROP|PROP|ABBR|NAV,False|False|False|False|False,5
+IV_0104,IV,"पथ्र्याे, कब्जियत, वीर्य, लोकमार्गले, मौजुद",NAV|BRAND|PROP|NAV|BRAND,False|False|False|False|False,5

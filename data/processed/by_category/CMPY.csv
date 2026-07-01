@@ -1,0 +1,151 @@
+﻿word,category,is_oov,notes,source
+नेपालकॊ,CMPY,True,,step4_corpus
+Ncell,CMPY,True,Telecom — N-initial + consonant cluster,seed_guide
+Worldlink,CMPY,True,ISP — Wor- cluster,seed_guide
+Vianet,CMPY,True,ISP — Via-,seed_guide
+Subisu,CMPY,True,ISP — unusual vowel sequence,seed_guide
+Nepal Telecom,CMPY,True,State telecom company,seed_guide
+Prabhu Money,CMPY,True,Remittance — aspirated + English,seed_guide
+IME Remit,CMPY,True,Remittance — acronym + English,seed_guide
+Muktinath Bikas Bank,CMPY,True,Bank — conjunct cluster,seed_guide
+Himalayan Bank,CMPY,True,Bank — English adjective,seed_guide
+Machhapuchchhre Bank,CMPY,True,Bank — double conjunct,seed_guide
+Rastriya Banijya Bank,CMPY,True,State bank — conjunct,seed_guide
+Standard Chartered,CMPY,True,Bank — English compound,seed_guide
+Everest Bank,CMPY,True,Bank — English name,seed_guide
+Nepal Investment Bank,CMPY,True,Bank — English compound,seed_guide
+NIC Asia Bank,CMPY,True,Bank — acronym + region,seed_guide
+Laxmi Sunrise Bank,CMPY,True,Bank — compound English,seed_guide
+Citizens Bank,CMPY,True,Bank — English,seed_guide
+Sanima Bank,CMPY,True,Bank — Nepali+English,seed_guide
+Nabil Bank,CMPY,True,Bank — Arabic-origin name,seed_guide
+Kumari Bank,CMPY,True,Bank — Nepali goddess,seed_guide
+Sunrise Bank,CMPY,True,Bank — English compound,seed_guide
+Prime Commercial Bank,CMPY,True,Bank — English,seed_guide
+Nepal SBI Bank,CMPY,True,Bank — acronym,seed_guide
+Prabhu Bank,CMPY,True,Bank — Nepali+English,seed_guide
+Siddhartha Bank,CMPY,True,Bank — Sanskrit name,seed_guide
+Global IME Bank,CMPY,True,Bank — acronym compound,seed_guide
+Agriculture Development Bank,CMPY,True,State bank — full compound,seed_guide
+Shikhar Insurance,CMPY,True,Insurance — Nepali+English,seed_guide
+Nepal Life Insurance,CMPY,True,Insurance — compound,seed_guide
+Sagarmatha Insurance,CMPY,True,Insurance — mountain name,seed_guide
+Neco Insurance,CMPY,True,Insurance — acronym,seed_guide
+Bouddha Air,CMPY,True,Airline — religious name,seed_guide
+Yeti Airlines,CMPY,True,Airline — Nepali myth,seed_guide
+Buddha Air,CMPY,True,Airline — Sanskrit,seed_guide
+Saurya Airlines,CMPY,True,Airline — Sanskrit,seed_guide
+Tara Air,CMPY,True,Airline — Sanskrit,seed_guide
+Shree Airlines,CMPY,True,Airline — Sanskrit title,seed_guide
+CG Corp Global,CMPY,True,Conglomerate — acronym,seed_guide
+Chaudhary Group,CMPY,True,Conglomerate — aspirated,seed_guide
+Golchha Organisation,CMPY,True,Conglomerate — lchh cluster,seed_guide
+Soaltee Hotel,CMPY,True,Hospitality — unusual vowel,seed_guide
+Hyatt Regency,CMPY,True,Hotel — Hy- + ency,seed_guide
+Marriott,CMPY,True,Hotel — double r + iott,seed_guide
+Himalayan Java,CMPY,True,Cafe chain — Java = tech/coffee,seed_guide
+Roadhouse Cafe,CMPY,True,Restaurant chain — compound,seed_guide
+Bhatbhateni Superstore,CMPY,True,Retail — aspirated + English,seed_guide
+Saleways,CMPY,True,Retail — ways suffix,seed_guide
+BigMart,CMPY,True,Retail — compound,seed_guide
+Sastodeal,CMPY,True,E-commerce — Nepali+deal,seed_guide
+Muncha House,CMPY,True,Restaurant — Newari+English,seed_guide
+Karnali Hydropower,CMPY,True,Energy — compound,seed_guide
+Chilime Hydropower,CMPY,True,Energy — place name,seed_guide
+Nepal Oil Corporation,CMPY,True,SOE — full compound,seed_guide
+Hetauda Cement,CMPY,True,SOE — place + English,seed_guide
+Dish Home,CMPY,True,DTH service — compound,seed_guide
+iSmart,CMPY,True,ISP — i-prefix camelCase,seed_guide
+Classic Tech,CMPY,True,ISP — English compound,seed_guide
+Websurfer,CMPY,True,ISP — compound,seed_guide
+Nepal Airlines,CMPY,True,National carrier,seed_guide
+Summit Air,CMPY,True,Airline — English compound,seed_guide
+Simrik Airlines,CMPY,True,Airline — Simrik place name,seed_guide
+Muktinath Development Bank,CMPY,True,Bank — long compound,seed_guide
+Mega Bank,CMPY,True,Bank — Greek prefix,seed_guide
+Civil Bank,CMPY,True,Bank — English,seed_guide
+Century Commercial Bank,CMPY,True,Bank — century prefix,seed_guide
+Janata Bank,CMPY,True,Bank — Nepali+English,seed_guide
+Purnima Finance,CMPY,True,Finance — Sanskrit+English,seed_guide
+NIBL Ace Capital,CMPY,True,Finance — acronym + English,seed_guide
+Nabil Invest,CMPY,True,Securities — Arabic+English,seed_guide
+Sewa Laghubitta,CMPY,True,Microfinance — Nepali,seed_guide
+Deprosc Laghubitta,CMPY,True,Microfinance — acronym,seed_guide
+NMB Bank,CMPY,True,Bank — acronym,seed_guide
+Kamana Sewa Bank,CMPY,True,Development bank — Nepali,seed_guide
+Garima Bikas Bank,CMPY,True,Development bank — Nepali,seed_guide
+नेपालीहरुको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालसम्बत,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालजस्तो,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+ग्रुपसँग,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+कर्पोरेशनबाट,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीमनको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालभन्दा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+इन्टरनेशनलमा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीबाट,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालमात्रै,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालबीच,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालद्वारा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकहरूबीच,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपाललगायत,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+थाईनेपाल,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालप्रतिको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+फाइनान्सका,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपाललार्इ,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+लिमिटेडमा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकद्वारा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीसँग,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालगञ्जदेखि,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+टपनेपालन्युजडटकमसँग,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीहरूमा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालतर्फका,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीहरुबाट,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकरहरू,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीले,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालगन्जको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बनेपाली,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+वासीनेपालीहरुलाई,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीहरुकोलागि,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकहरुको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकरहरुलाई,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकले,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालगंज,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकलाई,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकिङ,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालबिरुद्ध,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकमा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीहरूले,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालसँगको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+राष्ट्रबैंक,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकर,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकहरूलाई,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालगन्जदेखि,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+माइक्रोफाइनान्स,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकिङ्गबाट,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीद्वारा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+स्कटनेपाल,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालका,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकिङको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बनेपालीलाई,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपाल्स,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालआजको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+ग्रुपले,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बनेपाले,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालकै,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालगञ्ज,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालगंजमा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीहरुले,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीहरू,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+लिमिटेडको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालगञ्जको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+रनेपालमा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकहरुमा,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीज्यू,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालभित्र,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकहरुले,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालसंगको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालीसंग,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+नेपालगञ्जबाट,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकहरूको,CMPY,False,IV control word — all bigrams in training vocab,iv_sample
+बैंकक,CMPY,False,IV control word — all bigrams in training vocab,iv_sample

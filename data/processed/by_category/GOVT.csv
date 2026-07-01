@@ -1,0 +1,151 @@
+﻿word,category,is_oov,notes,source
+कोषू,GOVT,True,,step4_corpus
+परिक्षणआयोजना,GOVT,True,,step4_corpus
+उज्ज्वला योजना,GOVT,True,Jj- geminate conjunct,seed_guide
+आत्मनिर्भर,GOVT,True,Sanskrit compound — self-reliant,seed_guide
+प्रधानमन्त्री आवास,GOVT,True,Long compound — PM housing scheme,seed_guide
+समृद्ध नेपाल,GOVT,True,Conjunct ddh,seed_guide
+दिगो विकास,GOVT,True,Sustainable development,seed_guide
+राष्ट्रिय स्वास्थ्य बिमा,GOVT,True,Conjunct sw- + retroflex,seed_guide
+सुकुम्बासी आवास,GOVT,True,Landless housing scheme,seed_guide
+कृषि ऋण,GOVT,True,Agricultural loan scheme,seed_guide
+बालिका विवाह उत्थान,GOVT,True,Girl child marriage uplift scheme,seed_guide
+कर्णाली एकीकृत,GOVT,True,Code-mix scheme name,seed_guide
+मुख्यमन्त्री रोजगार,GOVT,True,CM employment scheme — conjunct,seed_guide
+युवा स्वरोजगार,GOVT,True,Youth self-employment — sw-,seed_guide
+अनुदान कार्यक्रम,GOVT,True,Subsidy program,seed_guide
+सामाजिक सुरक्षा,GOVT,True,Social security — cluster,seed_guide
+वृद्ध भत्ता,GOVT,True,Old age allowance,seed_guide
+विधवा भत्ता,GOVT,True,Widow allowance — dh- cluster,seed_guide
+अपाङ्गता भत्ता,GOVT,True,Disability allowance — conjunct ङ्ग,seed_guide
+एकल महिला,GOVT,True,Single women scheme,seed_guide
+जनजाति उत्थान,GOVT,True,Indigenous uplift — double t,seed_guide
+दलित सशक्तिकरण,GOVT,True,Dalit empowerment — sh+kt cluster,seed_guide
+सिंचाइ विकास,GOVT,True,Irrigation development,seed_guide
+खानेपानी योजना,GOVT,True,Drinking water scheme,seed_guide
+सडक विस्तार,GOVT,True,Road expansion — retroflex,seed_guide
+विद्युत् प्राधिकरण,GOVT,True,Electricity authority — conjunct,seed_guide
+नेपाल विद्युत्,GOVT,True,NEA — conjunct t,seed_guide
+राजस्व अनुसन्धान,GOVT,True,Revenue investigation — sw-,seed_guide
+भ्रष्टाचार नियन्त्रण,GOVT,True,Corruption control — conjunct,seed_guide
+संविधान संशोधन,GOVT,True,Constitution amendment — conjunct,seed_guide
+निर्वाचन आयोग,GOVT,True,Election commission,seed_guide
+लोकसेवा आयोग,GOVT,True,Public service commission — sw-,seed_guide
+प्रहरी प्रशिक्षण,GOVT,True,Police training — sh+k cluster,seed_guide
+सैनिक प्रशिक्षण,GOVT,True,Military training,seed_guide
+न्यायपालिका,GOVT,True,Judiciary — ny- cluster,seed_guide
+व्यवस्थापिका,GOVT,True,Legislature — wy- cluster,seed_guide
+कार्यपालिका,GOVT,True,Executive — ry- cluster,seed_guide
+स्थानीय सरकार,GOVT,True,Local government — sth- cluster,seed_guide
+प्रदेश सरकार,GOVT,True,Provincial government,seed_guide
+संघीय संसद,GOVT,True,Federal parliament — conjunct,seed_guide
+राष्ट्रिय सभा,GOVT,True,National assembly — conjunct,seed_guide
+प्रतिनिधि सभा,GOVT,True,House of representatives,seed_guide
+मन्त्रिपरिषद्,GOVT,True,Council of ministers — conjunct,seed_guide
+अख्तियार दुरुपयोग,GOVT,True,CIAA — Persian-origin word,seed_guide
+महालेखा परीक्षक,GOVT,True,Auditor general — conjunct,seed_guide
+सर्वोच्च अदालत,GOVT,True,Supreme court — conjunct chch,seed_guide
+उच्च अदालत,GOVT,True,High court — chh aspirate,seed_guide
+जिल्ला अदालत,GOVT,True,District court — ll cluster,seed_guide
+भूमि व्यवस्था,GOVT,True,Land management — wy- cluster,seed_guide
+वन विभाग,GOVT,True,Forest department,seed_guide
+पर्यटन बोर्ड,GOVT,True,Tourism board — code-mix,seed_guide
+लगानी बोर्ड,GOVT,True,Investment board — code-mix,seed_guide
+गृह मन्त्रालय,GOVT,True,Home ministry — conjunct,seed_guide
+परराष्ट्र मन्त्रालय,GOVT,True,Foreign affairs — conjunct,seed_guide
+अर्थ मन्त्रालय,GOVT,True,Finance ministry,seed_guide
+शिक्षा मन्त्रालय,GOVT,True,Education ministry — conjunct,seed_guide
+स्वास्थ्य मन्त्रालय,GOVT,True,Health ministry — sw- cluster,seed_guide
+कृषि मन्त्रालय,GOVT,True,Agriculture ministry — kr- cluster,seed_guide
+ऊर्जा मन्त्रालय,GOVT,True,Energy ministry — vowel initial,seed_guide
+भौतिक पूर्वाधार,GOVT,True,Physical infrastructure — conjunct,seed_guide
+महिला बालबालिका,GOVT,True,Women and children ministry,seed_guide
+युवा तथा खेलकुद,GOVT,True,Youth and sports — kh- cluster,seed_guide
+सञ्चार तथा सूचना,GOVT,True,Communications ministry — conjunct,seed_guide
+वातावरण मन्त्रालय,GOVT,True,Environment ministry,seed_guide
+पर्यटन मन्त्रालय,GOVT,True,Tourism ministry — ry- cluster,seed_guide
+उद्योग वाणिज्य,GOVT,True,Industry and commerce — conjunct,seed_guide
+श्रम मन्त्रालय,GOVT,True,Labour ministry — shr- cluster,seed_guide
+भूमि व्यवस्थापन,GOVT,True,Land management ministry — wy-,seed_guide
+जलस्रोत विभाग,GOVT,True,Water resources dept — conjunct,seed_guide
+नागरिक उड्डयन,GOVT,True,Civil aviation — dd- conjunct,seed_guide
+खाद्य व्यवस्था,GOVT,True,Food management — kh- cluster,seed_guide
+राष्ट्रिय योजना आयोग,GOVT,True,National planning commission,seed_guide
+केन्द्रीय अनुसन्धान,GOVT,True,Central investigation — conjunct,seed_guide
+विशेष अदालत,GOVT,True,Special court,seed_guide
+महान्यायाधिवक्ता,GOVT,True,Attorney general — conjunct,seed_guide
+आयोजनाको,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+प्रयोजनाका,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यक्रमअन्तर्गत,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+प्राधिकरणसँगको,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोगलाई,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+शब्दकोष,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+समितिले,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयबाट,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+विभागहरूमा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+समितिसमेत,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+समितिमार्फत,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+परियोजनाअन्तर्गत,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+योजनाअन्तर्गतका,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयहरु,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+प्राधिकरणमा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयले,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालय,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यक्रमहरुको,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+समितिहरू,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कोषिकाहरूले,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोजनाहर,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+विभागसँग,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोगमा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+योजनाले,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+बोर्डिङपास,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+परियोजनासहित,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+परियोजनाहरु,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यक्रमले,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयमातहतको,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयजस्ता,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोजनासँग,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+योजनाप्रति,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+प्राधिकरणकै,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+योजनाविनै,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोगले,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयसंगको,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोग,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोगलेभ्रष्टाचार,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोजनाहरु,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+निगम,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+बोर्डबाट,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोजनाले,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोजनास्थलमै,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+योजनासहित,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+परियोजनामा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोजनामा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+विभागसम्बन्धी,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+प्रयोजनार्थ,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+समितिकातर्फबाट,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यक्रममाथि,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+प्राधिकरणबीच,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+निगमको,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयमार्फत,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+समितिहरुलाइ,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+गुरुयोजनामा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कोषमार्फत,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+परियोजनामार्फत,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यक्रमविच,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यक्रमवाट,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयसंग,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयका,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यसमिति,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयहरुको,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोजनासंगै,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोगविरुद्ध,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यक्रम्मा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+विभागबाट,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+कार्यक्रमहरूको,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+गुरुयोजनाअनुसार,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+अन्तरमन्त्रालयबिच,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+बोर्डले,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रालयद्वारा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+आयोजनामध्ये,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+विभागीय,GOVT,False,IV control word — all bigrams in training vocab,iv_sample
+समितिद्वारा,GOVT,False,IV control word — all bigrams in training vocab,iv_sample

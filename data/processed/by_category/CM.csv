@@ -1,0 +1,151 @@
+﻿word,category,is_oov,notes,source
+online बुकिङ,CM,True,E-booking — English noun + Nepali suffix,seed_guide
+digital payment,CM,True,All-English phrase in Nepali context,seed_guide
+smartphone चार्ज,CM,True,Sph- cluster + Nepali,seed_guide
+freelancing काम,CM,True,English gerund + Nepali noun,seed_guide
+internet bandwidth,CM,True,Technical English in Nepali,seed_guide
+EMI मा किन्नुस्,CM,True,Abbreviation in Nepali syntax,seed_guide
+OTP पठाउनुस्,CM,True,Acronym in Nepali sentence,seed_guide
+CCTV जडान,CM,True,Acronym + Nepali noun,seed_guide
+YouTube channel,CM,True,Compound English in Nepali,seed_guide
+password बिर्सनु,CM,True,English noun + Nepali verb,seed_guide
+screenshot लिनुस्,CM,True,English noun + Nepali imperative,seed_guide
+WhatsApp group,CM,True,App name + English noun,seed_guide
+photoshop गर्नुस्,CM,True,Brand-as-verb + Nepali,seed_guide
+electricity bill online,CM,True,Full English phrase,seed_guide
+mobile recharge,CM,True,English compound in Nepali media,seed_guide
+fast internet,CM,True,English adj+noun,seed_guide
+cloud storage,CM,True,Technical English,seed_guide
+video call गर्ने,CM,True,English compound + Nepali infinitive,seed_guide
+selfie खिच्नुस्,CM,True,English loanword + Nepali verb,seed_guide
+trending topic,CM,True,Social media English,seed_guide
+live streaming,CM,True,Media English,seed_guide
+data plan,CM,True,Telecom English,seed_guide
+roaming charge,CM,True,Telecom English,seed_guide
+SIM swap,CM,True,Telecom — acronym + English,seed_guide
+cyber crime,CM,True,Legal English in Nepali,seed_guide
+phishing attack,CM,True,Cybersecurity English,seed_guide
+spam message,CM,True,Email/tech English,seed_guide
+app update,CM,True,Short English compound,seed_guide
+software install,CM,True,Technical English,seed_guide
+hardware problem,CM,True,Technical English,seed_guide
+laptop charge,CM,True,Device English,seed_guide
+WiFi signal,CM,True,Technical English,seed_guide
+Bluetooth connect,CM,True,Technical English,seed_guide
+GPS location,CM,True,Navigation English,seed_guide
+delivery tracking,CM,True,E-commerce English,seed_guide
+cashback offer,CM,True,Finance English,seed_guide
+discount code,CM,True,Retail English,seed_guide
+voucher apply,CM,True,Retail English,seed_guide
+refund request,CM,True,Consumer English,seed_guide
+account login,CM,True,Tech English,seed_guide
+profile update,CM,True,Social media English,seed_guide
+news feed,CM,True,Social media English,seed_guide
+story post,CM,True,Social media English,seed_guide
+like comment,CM,True,Social media English,seed_guide
+share गर्नुस्,CM,True,English verb + Nepali,seed_guide
+download गर्नुस्,CM,True,English verb + Nepali,seed_guide
+upload भयो,CM,True,English verb + Nepali past,seed_guide
+login गर्नुस्,CM,True,English noun-verb + Nepali,seed_guide
+reboot गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+format गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+backup लिनुस्,CM,True,Technical English + Nepali,seed_guide
+reset गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+upgrade गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+cancel गर्नुस्,CM,True,English + Nepali,seed_guide
+confirm गर्नुस्,CM,True,English + Nepali,seed_guide
+submit गर्नुस्,CM,True,English + Nepali,seed_guide
+block गर्नुस्,CM,True,Social media English + Nepali,seed_guide
+report गर्नुस्,CM,True,Social media English + Nepali,seed_guide
+unfollow गर्नुस्,CM,True,Social media English + Nepali,seed_guide
+mute गर्नुस्,CM,True,Social media English + Nepali,seed_guide
+online class,CM,True,Education English,seed_guide
+zoom meeting,CM,True,Video call platform,seed_guide
+Google search,CM,True,Search engine compound,seed_guide
+Facebook post,CM,True,Social media compound,seed_guide
+Instagram reel,CM,True,Social media English,seed_guide
+TikTok video,CM,True,Platform + content type,seed_guide
+email पठाउनुस्,CM,True,English + Nepali imperative,seed_guide
+print गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+scan गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+copy गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+paste गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+delete गर्नुस्,CM,True,Technical English + Nepali,seed_guide
+subscribe गर्नुस्,CM,True,Social media English + Nepali,seed_guide
+notification आयो,CM,True,English noun + Nepali past,seed_guide
+typing गर्दैछ,CM,True,English gerund + Nepali continuous,seed_guide
+दायरालाई,CM,False,IV control word — all bigrams in training vocab,iv_sample
+काठमाडौंले,CM,False,IV control word — all bigrams in training vocab,iv_sample
+भूइँ,CM,False,IV control word — all bigrams in training vocab,iv_sample
+किस्तबन्दीमा,CM,False,IV control word — all bigrams in training vocab,iv_sample
+गुमाई,CM,False,IV control word — all bigrams in training vocab,iv_sample
+तलासम्म,CM,False,IV control word — all bigrams in training vocab,iv_sample
+व्यावसायिकरुपमा,CM,False,IV control word — all bigrams in training vocab,iv_sample
+अग्ला,CM,False,IV control word — all bigrams in training vocab,iv_sample
+प्रवाह,CM,False,IV control word — all bigrams in training vocab,iv_sample
+साल्ट,CM,False,IV control word — all bigrams in training vocab,iv_sample
+हुुनुअघि,CM,False,IV control word — all bigrams in training vocab,iv_sample
+संलग्नक,CM,False,IV control word — all bigrams in training vocab,iv_sample
+भोकमरी,CM,False,IV control word — all bigrams in training vocab,iv_sample
+लिएपछि,CM,False,IV control word — all bigrams in training vocab,iv_sample
+नीर,CM,False,IV control word — all bigrams in training vocab,iv_sample
+मिली,CM,False,IV control word — all bigrams in training vocab,iv_sample
+लेन,CM,False,IV control word — all bigrams in training vocab,iv_sample
+नरक,CM,False,IV control word — all bigrams in training vocab,iv_sample
+परराष्ट्रसचिव,CM,False,IV control word — all bigrams in training vocab,iv_sample
+चोटिको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+ट्यूबवेल,CM,False,IV control word — all bigrams in training vocab,iv_sample
+पाइनुका,CM,False,IV control word — all bigrams in training vocab,iv_sample
+ब्यक्तिप्रति,CM,False,IV control word — all bigrams in training vocab,iv_sample
+प्रभाषको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+समुदायका,CM,False,IV control word — all bigrams in training vocab,iv_sample
+यौनांगमा,CM,False,IV control word — all bigrams in training vocab,iv_sample
+नचलेको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+पुलिसकी,CM,False,IV control word — all bigrams in training vocab,iv_sample
+नपुग्दै,CM,False,IV control word — all bigrams in training vocab,iv_sample
+हिड्छे,CM,False,IV control word — all bigrams in training vocab,iv_sample
+आँशुका,CM,False,IV control word — all bigrams in training vocab,iv_sample
+जनाएकोछ,CM,False,IV control word — all bigrams in training vocab,iv_sample
+अटोग्राफ,CM,False,IV control word — all bigrams in training vocab,iv_sample
+संसोधित,CM,False,IV control word — all bigrams in training vocab,iv_sample
+चारको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+अध्ययनशील,CM,False,IV control word — all bigrams in training vocab,iv_sample
+साटिएको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+अग्रवालका,CM,False,IV control word — all bigrams in training vocab,iv_sample
+जोनीको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+उपरीक्षकसहित,CM,False,IV control word — all bigrams in training vocab,iv_sample
+थाह,CM,False,IV control word — all bigrams in training vocab,iv_sample
+निर्माणस्थलमै,CM,False,IV control word — all bigrams in training vocab,iv_sample
+बागबजारमा,CM,False,IV control word — all bigrams in training vocab,iv_sample
+व्यक्तिहरूले,CM,False,IV control word — all bigrams in training vocab,iv_sample
+कानूनतः,CM,False,IV control word — all bigrams in training vocab,iv_sample
+रकमका,CM,False,IV control word — all bigrams in training vocab,iv_sample
+धाराको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+प्रतिस्पर्धी,CM,False,IV control word — all bigrams in training vocab,iv_sample
+इन्ड,CM,False,IV control word — all bigrams in training vocab,iv_sample
+मण्डपमा,CM,False,IV control word — all bigrams in training vocab,iv_sample
+उन्मूलन,CM,False,IV control word — all bigrams in training vocab,iv_sample
+ढले,CM,False,IV control word — all bigrams in training vocab,iv_sample
+शंकाले,CM,False,IV control word — all bigrams in training vocab,iv_sample
+गर्भधारणका,CM,False,IV control word — all bigrams in training vocab,iv_sample
+पाउनसक्ने,CM,False,IV control word — all bigrams in training vocab,iv_sample
+पटानीले,CM,False,IV control word — all bigrams in training vocab,iv_sample
+रसेल,CM,False,IV control word — all bigrams in training vocab,iv_sample
+कमलाकुमारी,CM,False,IV control word — all bigrams in training vocab,iv_sample
+भोलीबाट,CM,False,IV control word — all bigrams in training vocab,iv_sample
+लागेको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+ब्युँतिने,CM,False,IV control word — all bigrams in training vocab,iv_sample
+सुकन्या,CM,False,IV control word — all bigrams in training vocab,iv_sample
+प्रोग्रामर,CM,False,IV control word — all bigrams in training vocab,iv_sample
+बताईन,CM,False,IV control word — all bigrams in training vocab,iv_sample
+अल्बर्टीले,CM,False,IV control word — all bigrams in training vocab,iv_sample
+पूर्वका,CM,False,IV control word — all bigrams in training vocab,iv_sample
+रुसमा,CM,False,IV control word — all bigrams in training vocab,iv_sample
+उपचारले,CM,False,IV control word — all bigrams in training vocab,iv_sample
+साताजति,CM,False,IV control word — all bigrams in training vocab,iv_sample
+जलप्रलयले,CM,False,IV control word — all bigrams in training vocab,iv_sample
+जक्सन,CM,False,IV control word — all bigrams in training vocab,iv_sample
+प्रतिनिधिहरु,CM,False,IV control word — all bigrams in training vocab,iv_sample
+भुट्टोको,CM,False,IV control word — all bigrams in training vocab,iv_sample
+पुस्तकहरूमा,CM,False,IV control word — all bigrams in training vocab,iv_sample
+र्तिन,CM,False,IV control word — all bigrams in training vocab,iv_sample

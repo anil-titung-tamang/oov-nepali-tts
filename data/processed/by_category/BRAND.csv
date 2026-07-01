@@ -1,0 +1,151 @@
+﻿word,category,is_oov,notes,source
+Goldstar,BRAND,True,CG Electronics brand — final consonant cluster,seed_guide
+Wai Wai,BRAND,True,Instant noodle brand — reduplication,seed_guide
+Dabur,BRAND,True,FMCG brand — final -ur,seed_guide
+Colgate,BRAND,True,Dental care — English loan,seed_guide
+Lux,BRAND,True,Soap brand — consonant cluster final,seed_guide
+Sprite,BRAND,True,Beverage — Spr- cluster,seed_guide
+Fanta,BRAND,True,Beverage — Fn cluster,seed_guide
+Kurkure,BRAND,True,Snack — retroflex,seed_guide
+Maggi,BRAND,True,Noodle brand — geminate G,seed_guide
+Khalti,BRAND,True,Digital wallet — retroflex,seed_guide
+Bhatbhateni,BRAND,True,Supermarket chain — aspirated + retroflex,seed_guide
+Daraz,BRAND,True,E-commerce — Arabic-origin final z,seed_guide
+Samsung,BRAND,True,Electronics — ng-final,seed_guide
+Nokia,BRAND,True,Mobile — oi diphthong,seed_guide
+Xiaomi,BRAND,True,Mobile — Xia- cluster unusual in Nepali,seed_guide
+Oppo,BRAND,True,Mobile — geminate p,seed_guide
+Vivo,BRAND,True,Mobile — v-initial,seed_guide
+Realme,BRAND,True,Mobile — eal cluster,seed_guide
+OnePlus,BRAND,True,Mobile — compound + plus,seed_guide
+Huawei,BRAND,True,Chinese brand — Hw- cluster,seed_guide
+Pepsi,BRAND,True,Beverage — ps cluster,seed_guide
+Coca-Cola,BRAND,True,Beverage — hyphenated,seed_guide
+Lipton,BRAND,True,Tea brand — consonant cluster,seed_guide
+Nescafe,BRAND,True,Coffee — sc- cluster,seed_guide
+Oreo,BRAND,True,Biscuit — vowel sequence,seed_guide
+Lays,BRAND,True,Chips — ay diphthong,seed_guide
+Surf Excel,BRAND,True,Detergent — compound,seed_guide
+Ariel,BRAND,True,Detergent — iel cluster,seed_guide
+Dettol,BRAND,True,Antiseptic — geminate t + final l,seed_guide
+Panadol,BRAND,True,Medicine — final -ol,seed_guide
+Disprin,BRAND,True,Medicine — spr- cluster,seed_guide
+Zandu,BRAND,True,Ayurvedic brand — z-initial,seed_guide
+Himalaya,BRAND,True,Herbal brand — aya suffix,seed_guide
+Patanjali,BRAND,True,Ayurvedic — retroflex cluster,seed_guide
+Honda,BRAND,True,Vehicle — nd cluster,seed_guide
+Suzuki,BRAND,True,Vehicle — z + ki,seed_guide
+Yamaha,BRAND,True,Vehicle/music — aha,seed_guide
+Bajaj,BRAND,True,Vehicle — final j,seed_guide
+Tata,BRAND,True,Conglomerate — simple but brand,seed_guide
+Hyundai,BRAND,True,Vehicle — Hy- + diphthong ai,seed_guide
+Maruti,BRAND,True,Vehicle — u-final,seed_guide
+Bira,BRAND,True,Beer brand — v/b alternation,seed_guide
+Tuborg,BRAND,True,Beer — final rg cluster,seed_guide
+Carlsberg,BRAND,True,Beer — final rg cluster,seed_guide
+Snickers,BRAND,True,Candy — Sn- + kers,seed_guide
+KitKat,BRAND,True,Chocolate — compound,seed_guide
+Cadbury,BRAND,True,Chocolate — dbury cluster,seed_guide
+Puma,BRAND,True,Sportswear — final -a,seed_guide
+Adidas,BRAND,True,Sportswear — das final,seed_guide
+Nike,BRAND,True,Sportswear — silent e in English,seed_guide
+Levi,BRAND,True,Jeans — i-final,seed_guide
+Reebok,BRAND,True,Sportswear — ee + bok,seed_guide
+Bata,BRAND,True,Footwear — simple but brand,seed_guide
+CG,BRAND,True,Chaudhary Group — abbreviation brand,seed_guide
+IME,BRAND,True,Remittance brand — acronym,seed_guide
+Esewa,BRAND,True,Digital payment — e-initial,seed_guide
+FonePay,BRAND,True,Payment app — compound,seed_guide
+ConnectIPS,BRAND,True,Payment — camelCase,seed_guide
+Sasto Deal,BRAND,True,E-commerce — code-mix,seed_guide
+Hamro Bazar,BRAND,True,E-commerce — Nepali+bazar,seed_guide
+OldDurbar,BRAND,True,Whisky brand — compound,seed_guide
+Ruslan,BRAND,True,Vodka brand — final n,seed_guide
+Surf,BRAND,True,Detergent — common short brand,seed_guide
+Closeup,BRAND,True,Toothpaste — compound,seed_guide
+Lifebuoy,BRAND,True,Soap — buoy cluster,seed_guide
+Dove,BRAND,True,Personal care — v-final,seed_guide
+Pantene,BRAND,True,Haircare — nt- cluster,seed_guide
+Head Shoulders,BRAND,True,Shampoo — compound,seed_guide
+Gillette,BRAND,True,Razor — double l + ette,seed_guide
+Sensodyne,BRAND,True,Toothpaste — dyne suffix,seed_guide
+Bosch,BRAND,True,Electronics — sch final,seed_guide
+LG,BRAND,True,Electronics — two-letter brand,seed_guide
+Panasonic,BRAND,True,Electronics — onic suffix,seed_guide
+Philips,BRAND,True,Electronics — Ph- + lps,seed_guide
+Whirlpool,BRAND,True,Appliance — Wh- + pool,seed_guide
+रायपुर,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+फुटबलर,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रतिष्ठित,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+व्यवस्थापछि,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+रोएकी,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रतिभाको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रतिक्षा,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+डोमेनसँग,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+पञ्चायत,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+किराँतहरुले,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+रेडियोले,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+घुसखोरी,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+मन्त्रिपरिषद्लाई,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+गीतका,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+पर्दैैन,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+श्रमजीवी,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+कानुनी,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+योनी,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+चौधरी,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+परीरहेको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+टालटुले,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+बखत्,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+संगठनमाझ,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+बताउनुहुन्छ,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+कब्जियत,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+बागबजारको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+तलबको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+यूकेको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+बालिकाहरुमाथि,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+स्पाइवेयर,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+सिक्दैछन्,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+इन्साइक्लोपडिया,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+बहादुरीपूर्वक,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+शुक्लागण्डकी,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+इडिभी,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+अकाउन्ट,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+निर्जिव,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+घट्यो,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+इस्टर्नाइजेसन,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रतिवादीका,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+भलिबलको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+पछिल्लोपल्ट,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+टेम्लेटलेट,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रदेशसभाको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+उत्साहजनकरुपमा,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+गोलीसहित,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+चारबुँदे,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रत्यारोपणपछि,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रवेशद्वारको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+चाँजो,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+श्रीदेवीको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+बर्षातको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+व्यवसायीहरुको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+वृद्धले,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रोजेक्टले,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+नाममात्रको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+दिइएर,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+प्रतापसँगै,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+सरोकारका,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+दिइनन्,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+फूर्तिलो,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+इन्दिराको,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+भिएलएनका,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+पेजबाट,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+सवैका,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+छविलाई,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+पछिल्तिर,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+पारजित,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+गरिदिनुभयो,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+मधेसकेन्द्रीत,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+करातें,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+सटमा,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+निस्कर्ष,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+मौजुद,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
+टोलीहरुसग,BRAND,False,IV control word — all bigrams in training vocab,iv_sample
