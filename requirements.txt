@@ -1,0 +1,38 @@
+# Core
+numpy>=1.26,<2.0
+pandas>=2.1
+tqdm>=4.66
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.29
+
+# NLP / text processing
+regex>=2023.12.25
+
+# Audio
+soundfile>=0.12
+pydub>=0.25
+librosa>=0.10
+
+# TTS / model inference (Step 7 uses Indic Parler-TTS; pin exactly to avoid
+# the header-vs-verify-cell version mismatch noted in docs/ Known Issues)
+torch>=2.1
+transformers==4.46.3
+parler-tts==0.2.2
+accelerate>=0.30
+
+# Data formats
+jsonlines>=4.0
+
+# Plotting (Step 9 / reporting figures)
+matplotlib>=3.8
+seaborn>=0.13
+
+# -----------------------------------------------------------------------
+# Step 8 (finetuning) intentionally has NO pinned deps here — finetuning
+# methodology is implementation-specific (see notebooks/step8_finetune_README.md).
+# Add your own training framework's requirements (e.g. peft, bitsandbytes,
+# deepspeed, wandb) in a separate requirements-finetune.txt if needed, so
+# the core pipeline environment stays lightweight and framework-agnostic.
+# -----------------------------------------------------------------------
